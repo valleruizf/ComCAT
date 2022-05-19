@@ -1,0 +1,8 @@
+T1	Sentence 0 70	Si més no ara l'humorista ara vigilarà més el límit dels seus acudits.
+T2	NegStructure 0 69	Si més no ara l'humorista ara vigilarà més el límit dels seus acudits
+A1	Value T2 NoNeg
+T3	NegExp 0 9	Si més no
+A2	NoNeg T3
+T4	NegSynMarker 7 9	no
+A3	NoNeg T4
+A4	Complexity T1 Simple

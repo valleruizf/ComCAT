@@ -1,0 +1,38 @@
+T1	Sentence 166 227	Que no tornin a veure aquests responsables la llum del sol!!!
+A1	Complexity T1 Simple
+T2	NegStructure 166 224	Que no tornin a veure aquests responsables la llum del sol
+A2	Value T2 Neg
+T3	NegExp 170 172	no
+T4	NegSynMarker 170 172	no
+T5	Scope 170 224	no tornin a veure aquests responsables la llum del sol
+T6	Focus 188 208	aquests responsables
+T7	Event 173 187	tornin a veure
+T8	Sentence 228 384	No pot ser que gent que fa bé tot, que paga els seus impostos, fa tots els tràmits que són d'obligat compliment i que té una ASSEGURANÇA amb el rebut PAGAT.
+A3	Complexity T8 Simple
+T9	NegStructure 228 383	No pot ser que gent que fa bé tot, que paga els seus impostos, fa tots els tràmits que són d'obligat compliment i que té una ASSEGURANÇA amb el rebut PAGAT
+A4	Value T9 Neg
+T10	NegExp 228 230	No
+T11	NegSynMarker 228 230	No
+T12	Scope 228 383	No pot ser que gent que fa bé tot, que paga els seus impostos, fa tots els tràmits que són d'obligat compliment i que té una ASSEGURANÇA amb el rebut PAGAT
+T13	Focus 239 383	que gent que fa bé tot, que paga els seus impostos, fa tots els tràmits que són d'obligat compliment i que té una ASSEGURANÇA amb el rebut PAGAT
+T14	Event 231 238	pot ser
+T15	Sentence 385 481	Que després l'assegurança diu que no paga, que després l'Ajuntament diu que no t'ajuda en res...
+A5	Complexity T15 Multiple
+T16	NegStructure 415 426	que no paga
+A6	Value T16 Neg
+T17	NegExp 419 421	no
+T18	NegSynMarker 419 421	no
+T19	Scope 397 410;419 426	l'assegurança no paga
+A7	Disc T19
+T20	Focus 422 425	pag
+T21	Event 422 426	paga
+T22	NegStructure 457 478	que no t'ajuda en res
+A8	Value T22 Neg
+T23	NegExp 461 463;475 478	no res
+A9	Disc T23
+T24	NegSynMarker 461 463	no
+T25	NegPolItem 475 478	res
+T26	Scope 440 452;461 478	l'Ajuntament no t'ajuda en res
+A10	Disc T26
+T27	Focus 472 478	en res
+T28	Event 466 471	ajuda

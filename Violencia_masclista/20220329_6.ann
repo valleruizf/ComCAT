@@ -1,0 +1,17 @@
+T1	Sentence 0 116	De cap manera, és propi d’un mascle, el fallit intent de bufetada, que, sense impactar, resulta pròpia d'un imbècil.
+A1	Complexity T1 Multiple
+T2	NegStructure 0 116	De cap manera, és propi d’un mascle, el fallit intent de bufetada, que, sense impactar, resulta pròpia d'un imbècil.
+A2	Value T2 Neg
+T3	NegExp 0 13	De cap manera
+T4	NegPolItem 3 6	cap
+T5	Scope 0 115	De cap manera, és propi d’un mascle, el fallit intent de bufetada, que, sense impactar, resulta pròpia d'un imbècil
+T6	Event 15 23	és propi
+T7	Focus 26 35	un mascle
+T8	NegStructure 72 86	sense impactar
+A3	Value T8 Neg
+T9	NegSynMarker 0 13	De cap manera
+T10	NegExp 72 77	sense
+T11	NegSynMarker 72 77	sense
+T12	Scope 72 86	sense impactar
+T13	Focus 78 86	impactar
+T14	Event 78 86	impactar

@@ -1,0 +1,20 @@
+T1	Sentence 287 383	Ell riu, ella no i ell respon amb violencia a allo que no fa riure a la seva dona pero si a ell.
+A1	Complexity T1 Multiple
+T2	NegStructure 296 303	ella no
+A2	Value T2 Neg
+T3	NegExp 301 303	no
+T4	NegSynMarker 301 303	no
+T5	Scope 296 303	ella no
+T6	Scope 291 294	riu
+A3	Ell T6
+T7	Focus 296 300	ella
+T8	Event 291 294	riu
+A4	Ell T8
+T9	NegStructure 338 382	que no fa riure a la seva dona pero si a ell
+A5	Value T9 Contr
+T10	NegExp 342 344	no
+T11	NegSynMarker 342 344	no
+T12	Scope 333 337;342 368	allo no fa riure a la seva dona
+A7	Disc T12
+T13	Focus 354 368	a la seva dona
+T14	Event 345 353	fa riure

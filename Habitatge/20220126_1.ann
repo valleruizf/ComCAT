@@ -1,0 +1,10 @@
+T1	Sentence 0 95	El poder dels oligopolis és massa gran, en front de la gent normal, que no sap com defensar-se.
+A1	Complexity T1 Simple
+T2	NegStructure 68 94	que no sap com defensar-se
+A2	Value T2 Neg
+T3	NegExp 72 74	no
+T4	NegSynMarker 72 74	no
+T5	Scope 52 66;72 94	la gent normal no sap com defensar-se
+A3	Disc T5
+T6	Focus 79 94	com defensar-se
+T7	Event 75 78	sap

@@ -1,0 +1,17 @@
+T1	Sentence 0 145	Ometre que la nacionalitat de l'agresor crec que no ajuda... Diguem la noticia complerta i després que cadascú tregui les seves conclusions, no ?
+A1	Complexity T1 Multiple
+T2	NegStructure 45 57	que no ajuda
+A2	Value T2 Neg
+T3	NegExp 49 51	no
+T4	NegSynMarker 49 51	no
+T5	Scope 0 39;49 57	Ometre que la nacionalitat de l'agresor no ajuda
+A3	Disc T5
+T6	Focus 0 39	Ometre que la nacionalitat de l'agresor
+T7	Event 52 57	ajuda
+T9	NegStructure 141 145	no ?
+A5	Value T9 NoNeg
+T10	NegExp 141 143	no
+A6	NoNeg T10
+T11	NegSynMarker 141 143	no
+A7	NoNeg T11
+A4	Disp T6

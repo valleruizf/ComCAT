@@ -1,0 +1,9 @@
+T1	Sentence 250 415	És el que s’ha de preguntar als dependentistes catalans cada vegada que surt una notícia com aquesta (mai entendré l'indubtable component masoquista d'aquesta gent).
+A1	Complexity T1 Simple
+T2	NegStructure 352 413	mai entendré l'indubtable component masoquista d'aquesta gent
+A2	Value T2 Neg
+T3	NegExp 352 355	mai
+T4	NegSynMarker 352 355	mai
+T5	Scope 352 413	mai entendré l'indubtable component masoquista d'aquesta gent
+T6	Focus 365 413	l'indubtable component masoquista d'aquesta gent
+T7	Event 356 364	entendré

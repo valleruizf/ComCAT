@@ -1,0 +1,11 @@
+T1	Sentence 0 60	"... La broma segurament no l'hauria fet a un home calb...".
+A1	Complexity T1 Simple
+T2	NegStructure 5 55	La broma segurament no l'hauria fet a un home calb
+A2	Value T2 Neg
+T3	NegExp 25 27	no
+T4	NegSynMarker 25 27	no
+T5	Scope 5 55	La broma segurament no l'hauria fet a un home calb
+T6	Focus 5 13	La broma
+A3	Pleo T6
+T7	Focus 28 30	l'
+T8	Event 30 40	hauria fet

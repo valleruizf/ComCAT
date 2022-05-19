@@ -1,0 +1,9 @@
+T1	Sentence 0 60	Els jutges mentres no siguis independentista ...màniga ample
+A1	Complexity T1 Simple
+T2	NegStructure 11 44	mentres no siguis independentista
+A2	Value T2 Neg
+T3	NegExp 19 21	no
+T4	NegSynMarker 19 21	no
+T5	Scope 19 44	no siguis independentista
+T6	Focus 29 44	independentista
+T7	Event 22 44	siguis independentista

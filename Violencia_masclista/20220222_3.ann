@@ -1,0 +1,19 @@
+T1	Sentence 75 115	Si tot és violència, al final res ho és.
+A1	Complexity T1 Simple
+T2	NegStructure 96 114	al final res ho és
+A2	Value T2 Neg
+T3	NegExp 105 108	res
+T4	NegSynMarker 105 108	res
+T5	Scope 105 114	res ho és
+T6	Focus 105 108	res
+T7	Event 105 108	res
+T8	Sentence 116 194	I què passa si la custòdia dels fills la té el pare, i és la mare qui no paga?
+A3	Complexity T8 Simple
+T9	NegStructure 182 193	qui no paga
+A4	Value T9 Neg
+T10	NegExp 186 188	no
+T11	NegSynMarker 186 188	no
+T12	Scope 174 181;186 193	la mare no paga
+A5	Disc T12
+T13	Focus 174 181	la mare
+T14	Event 189 193	paga

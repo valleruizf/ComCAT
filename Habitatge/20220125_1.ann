@@ -1,0 +1,10 @@
+T1	Sentence 0 102	Una reflexió que mai s'aborda es el desequilibri territorial i el seu resultat en la qualitat de vida.
+A1	Complexity T1 Simple
+T2	NegStructure 13 29	que mai s'aborda
+A2	Value T2 Neg
+T3	NegExp 17 20	mai
+T4	NegSynMarker 17 20	mai
+T5	Scope 0 12;17 29	Una reflexió mai s'aborda
+A3	Disc T5
+T6	Focus 0 12	Una reflexió
+T7	Event 21 29	s'aborda

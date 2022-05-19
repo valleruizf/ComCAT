@@ -1,0 +1,30 @@
+T1	Sentence 139 199	Mateix preu del lloguer amb el pàrking que sense el pàrking?
+A1	Complexity T1 Simple
+T2	NegStructure 182 198	sense el pàrking
+A2	Value T2 Neg
+T3	NegExp 182 187	sense
+T4	NegSynMarker 182 187	sense
+T5	Scope 182 198	sense el pàrking
+T6	Focus 188 198	el pàrking
+T7	Event 191 198	pàrking
+T8	Sentence 241 330	No es podia canviar moltes de les condicions d' un nou contracte respecte de l' anterior:
+A3	Complexity T8 Simple
+T9	NegStructure 241 329	No es podia canviar moltes de les condicions d' un nou contracte respecte de l' anterior
+A4	Value T9 Neg
+T10	NegExp 241 243	No
+T11	NegSynMarker 241 243	No
+T12	Scope 241 329	No es podia canviar moltes de les condicions d' un nou contracte respecte de l' anterior
+T13	Focus 261 329	moltes de les condicions d' un nou contracte respecte de l' anterior
+T14	Event 244 260	es podia canviar
+T15	Sentence 425 524	Els llogaters particulars, que no pretenguin collar ni exprèmer ningú, crec que sortien mal parats.
+A5	Complexity T15 Simple
+T16	NegStructure 452 494	que no pretenguin collar ni exprèmer ningú
+A6	Value T16 Neg
+T17	NegExp 456 458;477 479;489 494	no ni ningú
+A7	Disc T17
+T18	NegSynMarker 456 458	no
+T19	NegPolItem 477 479	ni
+T20	NegPolItem 489 494	ningú
+T21	Scope 456 494	no pretenguin collar ni exprèmer ningú
+T22	Focus 470 494	collar ni exprèmer ningú
+T23	Event 459 469	pretenguin

@@ -1,0 +1,10 @@
+T1	Sentence 83 220	Això quadra perfectament amb el lamentable nivell lingüístic dels seus periodistes, als quals se'ls nota molt que no llegeixen en català.
+A1	Complexity T1 Simple
+T2	NegStructure 193 219	que no llegeixen en català
+A2	Value T2 Neg
+T3	NegExp 197 199	no
+T4	NegSynMarker 197 199	no
+T5	Scope 145 165;197 219	els seus periodistes no llegeixen en català
+A3	Disc T5
+T6	Focus 210 219	en català
+T7	Event 200 209	llegeixen

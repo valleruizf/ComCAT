@@ -1,0 +1,26 @@
+T1	Sentence 0 149	A veure quan els ajuntaments i particulars es mentalitzen que no es poden anar fent casetes i urbanitzacions a qualsevol indret, per bonic que sigui.
+A1	Complexity T1 Simple
+T2	NegStructure 58 127	que no es poden anar fent casetes i urbanitzacions a qualsevol indret
+A2	Value T2 Neg
+T3	NegExp 62 64	no
+T4	NegSynMarker 62 64	no
+T5	Scope 62 127	no es poden anar fent casetes i urbanitzacions a qualsevol indret
+T6	Focus 109 127	a qualsevol indret
+T7	Event 65 83	es poden anar fent
+T8	Sentence 149 205	Abans de fer res, primer un estudi geològic del terreny.
+A3	Complexity T8 Simple
+T9	NegStructure 149 165	Abans de fer res
+A4	Value T9 NoNeg
+T10	NegExp 162 165	res
+A5	NoNeg T10
+T11	NegPolItem 162 165	res
+A6	NoNeg T11
+T12	Sentence 205 327	Així itot, cal assegurar que grans pluges o nevades, no alteraràn la morfología en un cas excepcional, que sempre n´hi ha.
+A7	Complexity T12 Simple
+T13	NegStructure 230 326	que grans pluges o nevades, no alteraràn la morfología en un cas excepcional, que sempre n´hi ha
+A8	Value T13 Neg
+T14	NegExp 258 260	no
+T15	NegSynMarker 258 260	no
+T16	Scope 234 306	grans pluges o nevades, no alteraràn la morfología en un cas excepcional
+T17	Focus 285 306	en un cas excepcional
+T18	Event 261 270	alteraràn

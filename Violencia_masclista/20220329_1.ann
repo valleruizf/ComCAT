@@ -1,0 +1,29 @@
+T1	Sentence 395 408	No en tindrà.
+A1	Complexity T1 Simple
+T2	NegStructure 395 407	No en tindrà
+A4	Value T2 Neg
+T3	NegExp 395 397	No
+T4	NegSynMarker 395 397	No
+T5	Scope 395 407	No en tindrà
+T6	Focus 398 400	en
+T7	Event 401 407	tindrà
+T8	Sentence 409 442	No hi ha atenuats ni prescripció.
+A2	Complexity T8 Simple
+T9	NegStructure 409 441	No hi ha atenuats ni prescripció
+A3	Value T9 Neg
+T10	NegExp 409 411;427 429	No ni
+A5	Disc T10
+T11	NegSynMarker 409 411	No
+T12	NegPolItem 427 429	ni
+T13	Scope 409 441	No hi ha atenuats ni prescripció
+T14	Focus 418 441	atenuats ni prescripció
+T15	Event 412 441	hi ha atenuats ni prescripció
+T16	Sentence 487 521	No se sap què en diu la seva dona.
+A6	Complexity T16 Simple
+T17	NegStructure 487 520	No se sap què en diu la seva dona
+A7	Value T17 Neg
+T18	NegExp 487 489	No
+T19	NegSynMarker 487 489	No
+T20	Scope 487 520	No se sap què en diu la seva dona
+T21	Focus 497 520	què en diu la seva dona
+T22	Event 490 496	se sap

@@ -1,0 +1,9 @@
+T1	Sentence 133 213	El resultat d'un cas depèn molt del jutge que decideix, i no hauria de ser així.
+A1	Complexity T1 Simple
+T2	NegStructure 191 212	no hauria de ser així
+A2	Value T2 Neg
+T3	NegExp 191 193	no
+T4	NegSynMarker 191 193	no
+T5	Scope 191 212	no hauria de ser així
+T6	Focus 208 212	així
+T7	Event 194 212	hauria de ser així

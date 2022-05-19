@@ -1,0 +1,11 @@
+T1	Sentence 78 218	Amb la llei a la mà els podrien tancar a presó, però com no lluiten pels drets dels vulnerables ni per la independència, tenen barra lliure.
+A1	Complexity T1 Simple
+T2	NegStructure 131 197	com no lluiten pels drets dels vulnerables ni per la independència
+A2	Value T2 Neg
+T3	NegExp 135 137;174 176	no ni
+A3	Disc T3
+T4	NegSynMarker 135 137	no
+T5	NegPolItem 174 176	ni
+T6	Scope 135 197	no lluiten pels drets dels vulnerables ni per la independència
+T7	Focus 146 197	pels drets dels vulnerables ni per la independència
+T8	Event 138 145	lluiten

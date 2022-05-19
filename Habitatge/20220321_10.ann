@@ -1,0 +1,21 @@
+T1	Sentence 282 346	Però a l' Estat E. no trobo cap partit d' esquerres a qui votar.
+A1	Complexity T1 Simple
+T2	NegStructure 287 345	a l' Estat E. no trobo cap partit d' esquerres a qui votar
+A2	Value T2 Neg
+T3	NegExp 301 303;310 313	no cap
+A3	Disc T3
+T4	NegSynMarker 301 303	no
+T5	NegPolItem 310 313	cap
+T6	Scope 287 345	a l' Estat E. no trobo cap partit d' esquerres a qui votar
+T7	Focus 287 300	a l' Estat E.
+T8	Event 304 309	trobo
+T9	Sentence 943 1007	No li hem reclamat, i expressament ens hem solidaritzat amb ell.
+A4	Complexity T9 Simple
+T10	NegStructure 943 961	No li hem reclamat
+A5	Value T10 Neg
+T11	NegExp 943 945	No
+T12	NegSynMarker 943 945	No
+T13	Scope 943 961	No li hem reclamat
+T15	Focus 949 961	hem reclamat
+T16	Event 949 961	hem reclamat
+A6	Disp T7

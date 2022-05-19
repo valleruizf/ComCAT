@@ -1,0 +1,11 @@
+T1	Sentence 185 275	Això que se'ls revolti una dona no ho poden suportar, li va fer pagar car a la pobra noia.
+A1	Complexity T1 Simple
+T2	NegStructure 185 237	Això que se'ls revolti una dona no ho poden suportar
+A2	Value T2 Neg
+T4	NegExp 217 219	no
+T5	NegSynMarker 217 219	no
+T3	Scope 185 237	Això que se'ls revolti una dona no ho poden suportar
+T6	Focus 185 216	Això que se'ls revolti una dona
+A3	Pleo T6
+T7	Focus 220 222	ho
+T8	Event 223 237	poden suportar

@@ -1,0 +1,9 @@
+T1	Sentence 141 257	No dormen pensant en què pot estar urdint la Mesa del Parlament, a veure a qui poden inhabilitar o ficar a la presó.
+A1	Complexity T1 Simple
+T2	NegStructure 141 256	No dormen pensant en què pot estar urdint la Mesa del Parlament, a veure a qui poden inhabilitar o ficar a la presó
+A2	Value T2 Neg
+T3	NegExp 141 143	No
+T4	NegSynMarker 141 143	No
+T5	Scope 141 150	No dormen
+T6	Focus 144 150	dormen
+T7	Event 144 150	dormen

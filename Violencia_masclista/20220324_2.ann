@@ -1,0 +1,9 @@
+T1	Sentence 0 60	Sembla lògic no haver-te de trobar amb l'assassí de ta mare.
+A1	Complexity T1 Simple
+T2	NegStructure 13 59	no haver-te de trobar amb l'assassí de ta mare
+A2	Value T2 Neg
+T3	NegExp 13 15	no
+T4	NegSynMarker 13 15	no
+T5	Scope 13 59	no haver-te de trobar amb l'assassí de ta mare
+T6	Focus 35 59	amb l'assassí de ta mare
+T7	Event 16 34	haver-te de trobar

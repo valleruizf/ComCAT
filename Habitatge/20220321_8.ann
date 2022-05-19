@@ -1,0 +1,9 @@
+T1	Sentence 0 112	Si es volen baixar els lloguers, els governs han de construir habitatges, no disposar dels habitatges aliens ...
+A1	Complexity T1 Simple
+T2	NegStructure 33 108	els governs han de construir habitatges, no disposar dels habitatges aliens
+A2	Value T2 Contr
+T3	NegExp 74 76	no
+T4	NegSynMarker 74 76	no
+T5	Scope 74 108	no disposar dels habitatges aliens
+T6	Focus 77 108	disposar dels habitatges aliens
+T7	Event 77 85	disposar

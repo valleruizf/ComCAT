@@ -1,0 +1,19 @@
+T1	Sentence 137 166	Au home, no digueu bajanades!
+A1	Complexity T1 Simple
+T2	NegStructure 146 165	no digueu bajanades
+A2	Value T2 Neg
+T3	NegExp 146 148	no
+T4	NegSynMarker 146 148	no
+T5	Scope 146 165	no digueu bajanades
+T6	Focus 156 165	bajanades
+T7	Event 149 155	digueu
+T8	Sentence 410 562	En un sistema econòmic de lliure mercat qui ha de finançar les polítiques socials han de ser les administracions, no pas els petits propetaris de pisos.
+A3	Complexity T8 Simple
+T9	NegStructure 450 561	qui ha de finançar les polítiques socials han de ser les administracions, no pas els petits propetaris de pisos
+A4	Value T9 Contr
+T10	NegExp 524 530	no pas
+T11	NegSynMarker 524 526	no
+T12	NegPolItem 527 530	pas
+T13	Scope 524 561	no pas els petits propetaris de pisos
+T14	Focus 531 561	els petits propetaris de pisos
+T15	Event 542 552	propetaris

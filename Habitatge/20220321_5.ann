@@ -1,0 +1,36 @@
+T1	Sentence 0 59	Ja sabien que no ho podien regular dins del marc autonòmic.
+A1	Complexity T1 Simple
+T2	NegStructure 10 58	que no ho podien regular dins del marc autonòmic
+A2	Value T2 Neg
+T3	NegExp 14 16	no
+T4	NegSynMarker 14 16	no
+T5	Scope 14 58	no ho podien regular dins del marc autonòmic
+T6	Focus 35 58	dins del marc autonòmic
+T7	Event 20 34	podien regular
+T8	Sentence 160 221	No podeu dedicar els esforços a altres coses més "duradores"?
+A3	Complexity T8 Simple
+T9	NegStructure 160 220	No podeu dedicar els esforços a altres coses més "duradores"
+A4	Value T9 Neg
+T10	NegExp 160 162	No
+T11	NegSynMarker 160 162	No
+T12	Scope 160 220	No podeu dedicar els esforços a altres coses més "duradores"
+T13	Focus 190 220	a altres coses més "duradores"
+T14	Event 163 176	podeu dedicar
+T15	Sentence 222 299	No és per res, però sempre estar marejant el ciutadà , no és massa bona idea!
+A5	Complexity T15 Multiple
+T16	NegStructure 237 298	però sempre estar marejant el ciutadà , no és massa bona idea
+A6	Value T16 Neg
+T17	NegExp 277 279;283 288	no massa
+A7	Disc T17
+T18	Scope 242 298	sempre estar marejant el ciutadà , no és massa bona idea
+T19	Focus 283 298	massa bona idea
+T20	Event 280 298	és massa bona idea
+T21	NegStructure 222 298	No és per res, però sempre estar marejant el ciutadà , no és massa bona idea
+A8	Value T21 NoNeg
+T22	NegExp 222 235	No és per res
+A9	NoNeg T22
+T23	NegSynMarker 222 224	No
+T24	NegPolItem 232 235	res
+T28	NegSynMarker 277 279	no
+A11	NoNeg T23
+A12	NoNeg T24

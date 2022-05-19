@@ -1,0 +1,24 @@
+T1	Sentence 0 475	L'article no esmenta un aspecte que no es pot obviar i és que, el Consell de Garanties Estatutàries de la Generalitat de Catalunya, que ha d'emetre dictamen jurídic sobre les proposicions de llei que ha d'aprovar el Parlament de Catalunya, mitjançant Dictamen 7/2020 , de 5 d'agost i per unanimitat de tots els seus membres, va emetre informe jurídic en el sentit que diversos articles de la llei no s'adequaven a les competències que sobre aquesta matèria té la Generalitat.
+A1	Complexity T1 Multiple
+T2	NegStructure 0 52	L'article no esmenta un aspecte que no es pot obviar
+A2	Value T2 Neg
+T3	NegExp 10 12	no
+T4	NegSynMarker 10 12	no
+T5	Scope 0 52	L'article no esmenta un aspecte que no es pot obviar
+T6	Focus 21 52	un aspecte que no es pot obviar
+T7	Event 13 20	esmenta
+T8	NegStructure 32 52	que no es pot obviar
+A3	Value T8 Neg
+T9	NegExp 36 38	no
+T10	NegSynMarker 36 38	no
+T11	Scope 21 31;36 52	un aspecte no es pot obviar
+A4	Disc T11
+T12	Focus 46 52	obviar
+T13	Event 39 52	es pot obviar
+T14	NegStructure 351 474	en el sentit que diversos articles de la llei no s'adequaven a les competències que sobre aquesta matèria té la Generalitat
+A5	Value T14 Neg
+T15	NegExp 397 399	no
+T16	NegSynMarker 397 399	no
+T17	Scope 368 474	diversos articles de la llei no s'adequaven a les competències que sobre aquesta matèria té la Generalitat
+T18	Focus 412 474	a les competències que sobre aquesta matèria té la Generalitat
+T19	Event 400 411	s'adequaven

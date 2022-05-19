@@ -1,0 +1,20 @@
+T1	Sentence 0 72	En l'edició digital del diari aquesta info no esmenta enlloc la comarca.
+A1	Complexity T1 Simple
+T2	NegStructure 0 71	En l'edició digital del diari aquesta info no esmenta enlloc la comarca
+A2	Value T2 Neg
+T3	NegExp 43 45;54 60	no enlloc
+A3	Disc T3
+T4	Scope 0 71	En l'edició digital del diari aquesta info no esmenta enlloc la comarca
+T5	Focus 0 29	En l'edició digital del diari
+T6	Event 46 53	esmenta
+T7	Sentence 73 176	Ni tan sols en la capçalera, a sota del nom de l'autora (a diferència, en aquest cas, de l'edició web).
+A4	Complexity T7 Simple
+T8	NegStructure 73 128	Ni tan sols en la capçalera, a sota del nom de l'autora
+A5	Value T8 Neg
+T9	NegExp 73 84	Ni tan sols
+T10	NegSynMarker 73 84	Ni tan sols
+T11	Scope 73 100	Ni tan sols en la capçalera
+T12	Focus 85 100	en la capçalera
+T13	Event 91 100	capçalera
+T14	NegPolItem 54 60	enlloc
+T15	NegSynMarker 43 45	no

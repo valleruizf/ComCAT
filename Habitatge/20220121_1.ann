@@ -1,0 +1,33 @@
+T1	Sentence 110 316	Els afectats (tots, els que encara tenen casa i els que ja no) haurien de fer una demanda col·lectiva contra l'ajuntament, i que pagui el 100% de danys, inclòs el lloguer, i que compri les cases que quedin.
+A1	Complexity T1 Simple
+T2	NegStructure 158 171	els que ja no
+A2	Value T2 Neg
+T3	NegExp 166 171	ja no
+T4	NegSynMarker 169 171	no
+T5	Scope 158 171	els que ja no
+T6	Scope 145 155	tenen casa
+A3	Ell T6
+T7	Focus 151 155	casa
+T8	Event 145 150	tenen
+T9	Sentence 317 453	I dic que pagui el 100%, perquè aquestes cases no valen res (no hi haurà cap comprador), i la zona s'hauria de declarar inconstructible.
+A4	Complexity T9 Multiple
+T10	NegStructure 342 376	perquè aquestes cases no valen res
+A5	Value T10 Neg
+T11	NegExp 364 366;373 376	no res
+A6	Disc T11
+T12	NegSynMarker 364 366	no
+T13	NegPolItem 373 376	res
+T14	Scope 349 376	aquestes cases no valen res
+T15	Focus 373 376	res
+T16	Event 367 372	valen
+T17	NegStructure 378 403	no hi haurà cap comprador
+A7	Value T17 Neg
+T18	NegExp 378 380;390 393	no cap
+A8	Disc T18
+T19	NegSynMarker 378 380	no
+T20	NegPolItem 390 393	cap
+T21	Scope 378 403	no hi haurà cap comprador
+T22	Focus 390 403	cap comprador
+T23	Event 381 403	hi haurà cap comprador
+A9	Ell T7
+A10	Ell T8

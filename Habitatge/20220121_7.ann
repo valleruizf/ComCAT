@@ -1,0 +1,17 @@
+T1	Sentence 0 162	No entenc com no ha de respondre i fer-se'n responsable l'Ajuntament quan son unes edificacions que es van fer amb un informe favorable de l'arquitecte municipal.
+A1	Complexity T1 Multiple
+T2	NegStructure 10 68	com no ha de respondre i fer-se'n responsable l'Ajuntament
+A2	Value T2 Neg
+T3	NegExp 14 16	no
+T4	NegSynMarker 14 16	no
+T5	Scope 14 68	no ha de respondre i fer-se'n responsable l'Ajuntament
+T6	Focus 56 68	l'Ajuntament
+T7	Event 17 32	ha de respondre
+T8	Event 35 55	fer-se'n responsable
+T9	NegStructure 0 68	No entenc com no ha de respondre i fer-se'n responsable l'Ajuntament
+A3	Value T9 Neg
+T10	NegExp 0 2	No
+T11	NegSynMarker 0 2	No
+T12	Scope 0 68	No entenc com no ha de respondre i fer-se'n responsable l'Ajuntament
+T13	Focus 10 68	com no ha de respondre i fer-se'n responsable l'Ajuntament
+T14	Event 3 9	entenc

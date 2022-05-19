@@ -1,0 +1,29 @@
+T1	Sentence 39 212	pobres les gran empreses, no veuen com és pot fer per ajudar els més necessitats sense que perdin ni un duro i no afecti els seus pobres sous i beneficis a final d exercici.
+A1	Complexity T1 Multiple
+T2	NegStructure 65 211	no veuen com és pot fer per ajudar els més necessitats sense que perdin ni un duro i no afecti els seus pobres sous i beneficis a final d exercici
+A2	Value T2 Neg
+T3	NegExp 65 67	no
+T4	NegSynMarker 65 67	no
+T5	Scope 46 63;65 211	les gran empreses no veuen com és pot fer per ajudar els més necessitats sense que perdin ni un duro i no afecti els seus pobres sous i beneficis a final d exercici
+A3	Disc T5
+T7	Event 68 73	veuen
+T8	NegStructure 120 211	sense que perdin ni un duro i no afecti els seus pobres sous i beneficis a final d exercici
+A4	Value T8 Neg
+T9	NegExp 120 129;137 147	sense que ni un duro
+A5	Disc T9
+T10	NegSynMarker 120 125	sense
+T11	NegPolItem 137 139	ni
+T6	Scope 120 211;46 63	sense que perdin ni un duro i no afecti els seus pobres sous i beneficis a final d exercici les gran empreses
+A6	Disc T6
+T12	Focus 130 211	perdin ni un duro i no afecti els seus pobres sous i beneficis a final d exercici
+T13	Event 130 136	perdin
+T14	Event 153 159	afecti
+T15	NegStructure 150 211	no afecti els seus pobres sous i beneficis a final d exercici
+A7	Value T15 Neg
+T16	NegExp 150 152	no
+T17	NegSynMarker 150 152	no
+T18	Scope 150 211;93 119	no afecti els seus pobres sous i beneficis a final d exercici ajudar els més necessitats
+A8	Disc T18
+T19	Focus 160 192	els seus pobres sous i beneficis
+T20	Event 153 159	afecti
+T21	Focus 74 211	com és pot fer per ajudar els més necessitats sense que perdin ni un duro i no afecti els seus pobres sous i beneficis a final d exercici

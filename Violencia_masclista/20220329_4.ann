@@ -1,0 +1,26 @@
+T1	Sentence 0 97	Aquest Paco Abril  es com una feminista radical en home, un tipus de gent que no cal fotre'n cas.
+A1	Complexity T1 Simple
+T2	NegStructure 74 96	que no cal fotre'n cas
+A2	Value T2 Neg
+T3	NegExp 78 80	no
+T4	NegSynMarker 78 80	no
+T5	Scope 57 73;78 96	un tipus de gent no cal fotre'n cas
+A3	Disc T5
+T6	Focus 85 96	fotre'n cas
+T7	Event 81 96	cal fotre'n cas
+T8	Sentence 115 223	Potser no calía el mastegot, peró tampoc calía que aquell bromista de merda, tornés a fer broma amb la Jade.
+A4	Complexity T8 Multiple
+T9	NegStructure 115 142	Potser no calía el mastegot
+A5	Value T9 Neg
+T10	NegExp 122 124	no
+T11	NegSynMarker 122 124	no
+T12	Scope 122 142	no calía el mastegot
+T13	Focus 131 142	el mastegot
+T14	Event 125 130	calía
+T15	NegStructure 144 222	peró tampoc calía que aquell bromista de merda, tornés a fer broma amb la Jade
+A6	Value T15 Neg
+T16	NegExp 149 155	tampoc
+T17	NegSynMarker 149 155	tampoc
+T18	Scope 149 222	tampoc calía que aquell bromista de merda, tornés a fer broma amb la Jade
+T19	Focus 162 222	que aquell bromista de merda, tornés a fer broma amb la Jade
+T20	Event 156 161	calía
