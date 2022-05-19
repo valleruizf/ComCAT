@@ -1,0 +1,21 @@
+T1	Sentence 0 153	El xocant és també, que tots els cables de senyalització i control dels trens i potser altres, vagin pel costat més vulnerable, i no pel costat interior.
+A1	Complexity T1 Simple
+T2	NegStructure 101 152	pel costat més vulnerable, i no pel costat interior
+A2	Value T2 Contr
+T3	NegExp 128 132	i no
+T4	NegSynMarker 130 132	no
+T5	Scope 128 152	i no pel costat interior
+T6	Focus 133 152	pel costat interior
+T7	Event 137 143	costat
+T8	Sentence 194 199	O no.
+A4	Complexity T8 Simple
+T9	NegStructure 196 198	no
+A5	Value T9 Neg
+T10	NegExp 196 198	no
+T11	NegSynMarker 196 198	no
+T12	Scope 153 193	D´això se´n diu treballar amb eficiència
+T13	Focus 169 193	treballar amb eficiència
+T14	Event 160 162;165 193	se diu treballar amb eficiència
+A3	Ell T12
+A6	Ell T14
+A7	Ell T13

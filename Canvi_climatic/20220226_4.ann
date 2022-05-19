@@ -1,0 +1,10 @@
+T1	Sentence 0 195	Jo guardo totes les bosses que he usat per comprar verdures a granel, si no s'han embrutat, que és en la majoria dels casos, al cistelll o carro i les torno a usar tantes vegades com resisteixen.
+A1	Complexity T1 Simple
+T2	NegStructure 70 90	si no s'han embrutat
+A2	Value T2 Neg
+T3	NegExp 73 75	no
+T4	NegSynMarker 73 75	no
+T5	Scope 10 68;73 90	totes les bosses que he usat per comprar verdures a granel no s'han embrutat
+T6	Focus 76 90	s'han embrutat
+A3	Disc T5
+T7	Event 76 90	s'han embrutat

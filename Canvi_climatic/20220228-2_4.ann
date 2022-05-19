@@ -1,0 +1,26 @@
+T1	Sentence 14 114	I no poden dir els mandataris que no estaven advertits de les conseqüències de l'escalfament global.
+A1	Complexity T1 Multiple
+T2	NegStructure 16 113	no poden dir els mandataris que no estaven advertits de les conseqüències de l'escalfament global
+A2	Value T2 Neg
+T3	NegExp 16 18	no
+T4	NegSynMarker 16 18	no
+T5	Scope 16 113	no poden dir els mandataris que no estaven advertits de les conseqüències de l'escalfament global
+T6	Focus 44 113	que no estaven advertits de les conseqüències de l'escalfament global
+T7	Event 19 28	poden dir
+T8	NegStructure 44 113	que no estaven advertits de les conseqüències de l'escalfament global
+A3	Value T8 Neg
+T9	NegExp 48 50	no
+T10	NegSynMarker 48 50	no
+T11	Scope 29 43;48 113	els mandataris no estaven advertits de les conseqüències de l'escalfament global
+A4	Disc T11
+T12	Focus 59 113	advertits de les conseqüències de l'escalfament global
+T13	Event 51 68	estaven advertits
+T14	Sentence 191 229	I que no faltin diners per a armament!
+A5	Complexity T14 Simple
+T15	NegStructure 193 228	que no faltin diners per a armament
+A6	Value T15 Neg
+T16	NegExp 197 199	no
+T17	NegSynMarker 197 199	no
+T18	Scope 197 228	no faltin diners per a armament
+T19	Focus 214 228	per a armament
+T20	Event 200 206	faltin

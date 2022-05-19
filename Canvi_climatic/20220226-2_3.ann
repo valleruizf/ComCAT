@@ -1,0 +1,25 @@
+T1	Sentence 0 72	En l'article no queda clar perquè no es recicla el film dels embolcalls.
+A1	Complexity T1 Multiple
+T2	NegStructure 13 71	no queda clar perquè no es recicla el film dels embolcalls
+A2	Value T2 Neg
+T3	NegExp 13 15	no
+T4	NegSynMarker 13 15	no
+T5	Scope 13 71	no queda clar perquè no es recicla el film dels embolcalls
+T6	Focus 27 71	perquè no es recicla el film dels embolcalls
+T7	Event 16 26	queda clar
+T8	NegStructure 27 71	perquè no es recicla el film dels embolcalls
+A3	Value T8 Neg
+T9	NegExp 34 36	no
+T10	NegSynMarker 34 36	no
+T11	Scope 34 71	no es recicla el film dels embolcalls
+T12	Focus 48 71	el film dels embolcalls
+T13	Event 37 47	es recicla
+T14	Sentence 73 164	És perquè tecnicament no es pot reciclar o és perquè els consumidors o llencen a la resta ?
+A4	Complexity T14 Simple
+T15	NegStructure 76 113	perquè tecnicament no es pot reciclar
+A5	Value T15 Neg
+T16	NegExp 95 97	no
+T17	NegSynMarker 95 97	no
+T18	Scope 95 113	no es pot reciclar
+T19	Focus 105 113	reciclar
+T20	Event 98 113	es pot reciclar

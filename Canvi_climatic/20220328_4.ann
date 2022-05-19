@@ -1,0 +1,10 @@
+T1	Sentence 0 129	Aquesta problemàtica fa anys i anys que succeeix i no han trobat o volgut trobar una mesura que ho solventi de manera definitiva.
+A1	Complexity T1 Simple
+T2	NegStructure 51 128	no han trobat o volgut trobar una mesura que ho solventi de manera definitiva
+A2	Value T2 Neg
+T3	NegExp 51 53	no
+T4	NegSynMarker 51 53	no
+T5	Scope 51 128	no han trobat o volgut trobar una mesura que ho solventi de manera definitiva
+T6	Focus 81 128	una mesura que ho solventi de manera definitiva
+T7	Event 54 64	han trobat
+T8	Event 67 80	volgut trobar

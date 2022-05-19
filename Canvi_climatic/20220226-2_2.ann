@@ -1,0 +1,20 @@
+T1	Sentence 198 321	No es el cas dels embolcalls de film, poso en dubte que representin el 48% del plástics d'envasos - ho considero imposible.
+A1	Complexity T1 Simple
+T2	NegStructure 198 234	No es el cas dels embolcalls de film
+A2	Value T2 Neg
+T3	NegExp 198 200	No
+T4	NegSynMarker 198 200	No
+T5	Scope 198 234	No es el cas dels embolcalls de film
+T7	Focus 204 234	el cas dels embolcalls de film
+T6	Event 201 210	es el cas
+T8	Sentence 795 951	Tal com diu l'article una solució futura seria fabricar-lo amb Bio-plastics, pero no per reciclar-lo si no per fer bio compostatge amb els residus produits.
+A3	Complexity T8 Simple
+T9	NegStructure 872 950	pero no per reciclar-lo si no per fer bio compostatge amb els residus produits
+A4	Value T9 Contr
+T10	NegExp 877 879;896 901	no si no
+A5	Disc T10
+T11	NegSynMarker 877 879	no
+T12	Scope 877 895	no per reciclar-lo
+T13	Focus 880 895	per reciclar-lo
+T14	Event 884 892	reciclar
+T15	NegPolItem 896 901	si no

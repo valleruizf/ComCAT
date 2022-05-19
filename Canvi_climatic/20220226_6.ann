@@ -1,0 +1,11 @@
+T1	Sentence 129 175	Pero els altres animals no en tenen cap culpa.
+A1	Complexity T1 Simple
+T2	NegStructure 129 174	Pero els altres animals no en tenen cap culpa
+A2	Value T2 Neg
+T3	NegExp 153 155;165 168	no cap
+A3	Disc T3
+T4	NegSynMarker 153 155	no
+T5	NegPolItem 165 168	cap
+T6	Scope 134 174	els altres animals no en tenen cap culpa
+T8	Focus 165 174	cap culpa
+T9	Event 159 164	tenen

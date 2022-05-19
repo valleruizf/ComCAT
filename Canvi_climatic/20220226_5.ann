@@ -1,0 +1,26 @@
+T1	Sentence 67 105	I això no entra en tots la prohibició?
+A1	Complexity T1 Simple
+T2	NegStructure 69 105	això no entra en tots la prohibició?
+A2	Value T2 Neg
+T3	NegExp 74 76	no
+T4	NegSynMarker 74 76	no
+T5	Scope 69 104	això no entra en tots la prohibició
+T6	Focus 69 73	això
+T7	Event 77 82	entra
+T8	Sentence 106 119	No ho entenc.
+A3	Complexity T8 Simple
+T9	NegStructure 106 118	No ho entenc
+A4	Value T9 Neg
+T10	NegExp 106 108	No
+T11	NegSynMarker 106 108	No
+T12	Scope 106 118	No ho entenc
+T13	Focus 109 111	ho
+T14	Event 112 118	entenc
+T15	Sentence 120 169	No van prohibir els plàstics d'un sol ús a la UE?
+A5	Complexity T15 Simple
+T16	NegStructure 120 169	No van prohibir els plàstics d'un sol ús a la UE?
+A6	Value T16 NoNeg
+T17	NegExp 120 122	No
+T18	NegSynMarker 120 122	No
+A7	NoNeg T18
+A8	NoNeg T17

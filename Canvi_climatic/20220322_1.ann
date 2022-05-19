@@ -1,0 +1,9 @@
+T1	Sentence 0 117	L'aigua i l'energia mai s'haurien de privatitzar, i els aliments haurien de estar sotmesos al control dels beneficis.
+A1	Complexity T1 Simple
+T2	NegStructure 0 48	L'aigua i l'energia mai s'haurien de privatitzar
+A2	Value T2 Neg
+T3	NegExp 20 23	mai
+T4	NegSynMarker 20 23	mai
+T5	Scope 0 48	L'aigua i l'energia mai s'haurien de privatitzar
+T6	Focus 0 19	L'aigua i l'energia
+T7	Event 24 48	s'haurien de privatitzar

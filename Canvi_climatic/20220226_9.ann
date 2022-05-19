@@ -1,0 +1,11 @@
+T1	Sentence 102 131	No he pogut trobar-ho enlloc.
+A1	Complexity T1 Simple
+T2	NegStructure 102 130	No he pogut trobar-ho enlloc
+A2	Value T2 Neg
+T3	NegExp 102 104;124 130	No enlloc
+A3	Disc T3
+T4	NegSynMarker 102 104	No
+T5	NegPolItem 124 130	enlloc
+T6	Scope 102 130	No he pogut trobar-ho enlloc
+T7	Focus 124 130	enlloc
+T8	Event 105 120	he pogut trobar

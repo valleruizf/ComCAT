@@ -1,0 +1,19 @@
+T1	Sentence 183 297	Els panels fotovoltaics i els molins de vent ajuden, però arribaran molts anys tard, i tampoc no seran suficients.
+A1	Complexity T1 Simple
+T2	NegStructure 270 296	tampoc no seran suficients
+A2	Value T2 Neg
+T3	NegExp 270 279	tampoc no
+T4	NegPolItem 270 276	tampoc
+T5	NegSynMarker 277 279	no
+T6	Scope 183 227;270 296	Els panels fotovoltaics i els molins de vent tampoc no seran suficients
+A4	Disc T6
+T7	Focus 286 296	suficients
+T8	Event 280 296	seran suficients
+T9	Sentence 298 414	I quan ho siguin, necessitarem conservar energia elèctrica a gran escala; i estem a molts anys de tenir cap solució.
+T10	NegStructure 393 413	de tenir cap solució
+A5	Value T10 NoNeg
+T11	NegExp 402 405	cap
+A6	NoNeg T11
+T12	NegPolItem 402 405	cap
+A7	NoNeg T12
+A8	Complexity T9 Simple

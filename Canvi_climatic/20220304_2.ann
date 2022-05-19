@@ -1,0 +1,10 @@
+T1	Sentence 141 220	i ens proposin solucions que no arreglaran el problema i en crearan de pitjors!
+A1	Complexity T1 Simple
+T2	NegStructure 166 195	que no arreglaran el problema
+A2	Value T2 Neg
+T3	NegExp 170 172	no
+T4	NegSynMarker 170 172	no
+T5	Scope 156 165;170 195	solucions no arreglaran el problema
+A3	Disc T5
+T6	Focus 184 195	el problema
+T7	Event 173 183	arreglaran

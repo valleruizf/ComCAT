@@ -1,0 +1,20 @@
+T1	Sentence 0 267	Ecoembes només vol envasos al contenidor groc i la pròpia Generalitat va fer una campanya publicitària amb cançoneta enganxosa que deia "encara que siguis de plàstic al groc no hi aniràs", perquè a le plantes de reciclatge qualsevol altre plàstic el llencen al rebuig
+A1	Complexity T1 Simple
+T2	NegStructure 166 186	al groc no hi aniràs
+A2	Value T2 Neg
+T3	NegExp 174 176	no
+T4	NegSynMarker 174 176	no
+T5	Scope 174 186	no hi aniràs
+T6	Focus 166 173	al groc
+A3	Pleo T6
+T7	Focus 177 179	hi
+T8	Event 180 186	aniràs
+T9	Sentence 269 380	per tant cal canviar el model de recollida selectiva i no deixar-ho en mans privades o com a mínim controlar-ho
+A4	Complexity T9 Simple
+T10	NegStructure 324 353	no deixar-ho en mans privades
+A5	Value T10 Neg
+T11	NegExp 324 326	no
+T12	NegSynMarker 324 326	no
+T13	Scope 324 353	no deixar-ho en mans privades
+T14	Focus 337 353	en mans privades
+T15	Event 327 333	deixar

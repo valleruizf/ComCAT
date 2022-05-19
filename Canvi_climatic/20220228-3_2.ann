@@ -1,0 +1,9 @@
+T1	Sentence 406 433	No fotem excuses a tercers.
+A1	Complexity T1 Simple
+T2	NegStructure 406 432	No fotem excuses a tercers
+A2	Value T2 Neg
+T3	NegExp 406 408	No
+T4	NegSynMarker 406 408	No
+T5	Scope 406 432	No fotem excuses a tercers
+T6	Focus 423 432	a tercers
+T7	Event 409 414	fotem

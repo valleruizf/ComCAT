@@ -1,0 +1,32 @@
+T1	Sentence 299 443	Planteixen l'ampliació de l'aeroport a vida o mort quan aquest mateix aeroport no està connectat via ferrocarril amb moltes localitats properes.
+A1	Complexity T1 Simple
+T2	NegStructure 350 442	quan aquest mateix aeroport no està connectat via ferrocarril amb moltes localitats properes
+A2	Value T2 Neg
+T3	NegExp 378 380	no
+T4	NegSynMarker 378 380	no
+T5	Scope 355 442	aquest mateix aeroport no està connectat via ferrocarril amb moltes localitats properes
+T6	Focus 412 442	amb moltes localitats properes
+T7	Event 381 395	està connectat
+T8	Sentence 584 680	No s'entén i que no em diguin que és culpa de Madrid, perquè no únicament és culpa de l'Estat...
+A3	Complexity T8 Multiple
+T9	NegStructure 584 594	No s'entén
+A4	Value T9 Neg
+T10	NegExp 584 586	No
+T11	NegSynMarker 584 586	No
+T12	Scope 584 594	No s'entén
+T13	Focus 587 594	s'entén
+T14	Event 587 594	s'entén
+T15	NegStructure 597 636	que no em diguin que és culpa de Madrid
+A5	Value T15 Neg
+T16	NegExp 601 603	no
+T17	NegSynMarker 601 603	no
+T18	Scope 601 636	no em diguin que és culpa de Madrid
+T19	Focus 614 636	que és culpa de Madrid
+T20	NegStructure 638 677	perquè no únicament és culpa de l'Estat
+A6	Value T20 Neg
+T21	NegExp 645 647	no
+T22	NegSynMarker 645 647	no
+T23	Scope 645 677	no únicament és culpa de l'Estat
+T24	Focus 648 657	únicament
+T25	Event 658 666	és culpa
+T26	Event 607 613	diguin

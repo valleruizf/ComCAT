@@ -1,0 +1,9 @@
+T1	Sentence 70 129	Suposo que la majoria, si  o tots, són de telecomunicacions
+A1	Complexity T1 Simple
+T2	NegStructure 93 103	si  o tots
+A2	Value T2 Neg
+T3	NegExp 97 98	o
+T4	NegSynMarker 97 98	o
+T5	Scope 97 103	o tots
+T6	Focus 99 103	tots
+T7	Event 99 103	tots

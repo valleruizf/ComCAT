@@ -1,0 +1,9 @@
+T1	Sentence 130 180	Si ningú compra safates d'un sol ús, desapareixen.
+A1	Complexity T1 Simple
+T2	NegStructure 130 165	Si ningú compra safates d'un sol ús
+A2	Value T2 Neg
+T3	NegExp 133 138	ningú
+T4	NegSynMarker 133 138	ningú
+T5	Scope 133 165	ningú compra safates d'un sol ús
+T6	Focus 146 165	safates d'un sol ús
+T7	Event 133 138	ningú

@@ -1,0 +1,9 @@
+T1	Sentence 63 128	potser ajudarà als jocs d'hivern, per aixó deu ser i no ho diuen.
+A1	Complexity T1 Simple
+T2	NegStructure 116 127	no ho diuen
+A2	Value T2 Neg
+T3	NegExp 116 118	no
+T4	NegSynMarker 116 118	no
+T5	Scope 116 127	no ho diuen
+T6	Focus 119 121	ho
+T7	Event 122 127	diuen

@@ -1,0 +1,10 @@
+T1	Sentence 101 320	Els envasos P.E.T. tinguin el procés de bufat de preformas o termoconformat, no utilitzan multicapas, això està reservat a un tipus de ampolles i garrafas fabricats en HDPE, sigui per productes químics i fisiosanitaris.
+A1	Complexity T1 Simple
+T2	NegStructure 101 201	Els envasos P.E.T. tinguin el procés de bufat de preformas o termoconformat, no utilitzan multicapas
+A2	Value T2 Neg
+T3	NegExp 178 180	no
+T4	NegSynMarker 178 180	no
+T5	Scope 101 119;178 201	Els envasos P.E.T. no utilitzan multicapas
+A3	Disc T5
+T6	Focus 191 201	multicapas
+T7	Event 181 190	utilitzan

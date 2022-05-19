@@ -1,0 +1,9 @@
+T1	Sentence 0 46	Totes aquestes safates no poden ser de cartró?
+A1	Complexity T1 Simple
+T2	NegStructure 0 46	Totes aquestes safates no poden ser de cartró?
+A2	Value T2 Neg
+T3	NegExp 23 25	no
+T4	NegSynMarker 23 25	no
+T5	Scope 0 45	Totes aquestes safates no poden ser de cartró
+T6	Focus 0 22	Totes aquestes safates
+T7	Event 26 45	poden ser de cartró

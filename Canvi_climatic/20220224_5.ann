@@ -1,0 +1,8 @@
+T1	Sentence 0 236	Cal avançarse al 2050.. no sigui que ens passi com els habitants de Màlaga, que tot i haver avançat als catalans en tots els camps ( diuen ells....i alguns d'aquí també) , dons tenen restriccions d'aigua fins i tot per rentar el cotxe .
+A1	Complexity T1 Simple
+T2	NegStructure 24 234	no sigui que ens passi com els habitants de Màlaga, que tot i haver avançat als catalans en tots els camps ( diuen ells....i alguns d'aquí també) , dons tenen restriccions d'aigua fins i tot per rentar el cotxe
+A2	Value T2 NoNeg
+T3	NegExp 24 36	no sigui que
+A3	NoNeg T3
+T4	NegSynMarker 24 26	no
+A4	NoNeg T4

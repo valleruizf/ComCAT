@@ -1,0 +1,9 @@
+T1	Sentence 0 32	Ningu parla dels chemtrails  ???
+A1	Complexity T1 Simple
+T2	NegStructure 0 32	Ningu parla dels chemtrails  ???
+A2	Value T2 Neg
+T3	NegExp 0 5	Ningu
+T4	NegSynMarker 0 5	Ningu
+T5	Scope 0 27	Ningu parla dels chemtrails
+T6	Focus 12 27	dels chemtrails
+T7	Event 0 5	Ningu

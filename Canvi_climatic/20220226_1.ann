@@ -1,0 +1,9 @@
+T1	Sentence 58 91	No sé com pot ser de contaminant.
+A1	Complexity T1 Simple
+T2	NegStructure 58 90	No sé com pot ser de contaminant
+A2	Value T2 Neg
+T3	NegExp 58 60	No
+T4	NegSynMarker 58 60	No
+T5	Scope 58 90	No sé com pot ser de contaminant
+T6	Focus 64 90	com pot ser de contaminant
+T7	Event 61 63	sé

@@ -1,0 +1,21 @@
+T1	Sentence 164 207	No hi ha com fer obres publiques ben fetes.
+A1	Complexity T1 Simple
+T2	NegStructure 164 206	No hi ha com fer obres publiques ben fetes
+A2	Value T2 Neg
+T3	NegExp 164 166	No
+T4	NegSynMarker 164 166	No
+T5	Scope 164 206	No hi ha com fer obres publiques ben fetes
+T6	Focus 173 206	com fer obres publiques ben fetes
+T7	Event 167 206	hi ha com fer obres publiques ben fetes
+T8	Sentence 257 417	Si no, es treurà la vía i les llevantades es menjaràn la carretera o passeig, i després les edificacions dels nuclis històrics dels pobles "de mar" del maresme.
+A3	Complexity T8 Simple
+T9	NegStructure 257 262	Si no
+A4	Value T9 Neg
+T10	NegExp 260 262	no
+T11	NegSynMarker 260 262	no
+T12	Scope 211 244	es vol protegir la línia de costa
+A5	Ell T12
+T13	Focus 211 244	es vol protegir la línia de costa
+A6	Ell T13
+T14	Event 211 226	es vol protegir
+A7	Ell T14

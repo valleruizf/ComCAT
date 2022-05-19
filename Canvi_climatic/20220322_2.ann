@@ -1,0 +1,12 @@
+T1	Sentence 0 61	Un altre expert savi a qui els polítics no faran ni puto cas.
+A1	Complexity T1 Simple
+T2	NegStructure 21 60	a qui els polítics no faran ni puto cas
+A2	Value T2 Neg
+T3	NegExp 40 42;49 51	no ni
+A3	Disc T3
+T4	NegSynMarker 40 42	no
+T5	NegPolItem 49 51	ni
+T6	Scope 0 20;27 60	Un altre expert savi els polítics no faran ni puto cas
+A4	Disc T6
+T7	Focus 43 60	faran ni puto cas
+T8	Event 43 48;57 60	faran cas

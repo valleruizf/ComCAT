@@ -1,0 +1,24 @@
+T1	Sentence 0 112	Sembla que no estem disposats a renunciar al nostre ritme de vida ni nosaltres ni els rics que ho volen ser més.
+A1	Complexity T1 Simple
+T2	NegStructure 7 111	que no estem disposats a renunciar al nostre ritme de vida ni nosaltres ni els rics que ho volen ser més
+A2	Value T2 Neg
+T3	NegExp 11 13;66 68;79 81	no ni ni
+A3	Disc T3
+T4	NegSynMarker 11 13	no
+T5	NegPolItem 66 68	ni
+T6	NegPolItem 79 81	ni
+T7	Scope 11 111	no estem disposats a renunciar al nostre ritme de vida ni nosaltres ni els rics que ho volen ser més
+T11	Focus 66 111	ni nosaltres ni els rics que ho volen ser més
+T12	Event 69 78	nosaltres
+T13	Event 86 90	rics
+T8	Sentence 113 189	Doncs veurem l'energia nuclear declarada "energia neta" i aquí no passa res.
+A4	Complexity T8 Simple
+T9	NegStructure 171 188	aquí no passa res
+A5	Value T9 Neg
+T10	NegExp 176 178;185 188	no res
+A6	Disc T10
+T14	NegSynMarker 176 178	no
+T15	NegPolItem 185 188	res
+T16	Scope 171 188	aquí no passa res
+T17	Focus 185 188	res
+T18	Event 185 188	res

@@ -1,0 +1,6 @@
+T1	Sentence 26 105	L’ésser humà s’ha de coordinar, per rebutjar comprar res embolicat amb plàstic.
+T2	NegStructure 58 104	per rebutjar comprar res embolicat amb plàstic
+A1	Value T2 Neg
+T3	NegExp 79 82	res
+T4	NegPolItem 79 82	res
+A4	Complexity T1 Simple

@@ -1,0 +1,9 @@
+T1	Sentence 0 135	Només cal veure quines són les 5 notícies més llegides i les 5 més comentades per adonar-nos com acabarem: mirant el dit i no la lluna.
+A1	Complexity T1 Simple
+T2	NegStructure 107 134	mirant el dit i no la lluna
+A2	Value T2 Contr
+T3	NegExp 121 125	i no
+T4	NegSynMarker 123 125	no
+T5	Scope 121 134	i no la lluna
+T6	Focus 126 134	la lluna
+T7	Event 129 134	lluna

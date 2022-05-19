@@ -1,0 +1,9 @@
+T1	Sentence 0 17	No hi ha solució.
+A1	Complexity T1 Simple
+T2	NegStructure 0 16	No hi ha solució
+A2	Value T2 Neg
+T3	NegExp 0 2	No
+T4	NegSynMarker 0 2	No
+T5	Scope 0 16	No hi ha solució
+T6	Focus 9 16	solució
+T7	Event 3 16	hi ha solució

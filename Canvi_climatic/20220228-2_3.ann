@@ -1,0 +1,9 @@
+T1	Sentence 0 109	Potser podríem començar per casa nostra deixant de regar a manta i quan és amb aspersió, no fer-ho al migdía.
+A1	Complexity T1 Simple
+T2	NegStructure 89 108	no fer-ho al migdía
+A2	Value T2 Neg
+T3	NegExp 89 91	no
+T4	NegSynMarker 89 91	no
+T5	Scope 89 108	no fer-ho al migdía
+T6	Focus 99 108	al migdía
+T7	Event 92 95	fer

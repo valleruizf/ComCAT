@@ -1,0 +1,17 @@
+T1	Sentence 120 233	No ens governen homes valents i les dones encara no son prou nombroses per contrarestar tanta covardia prepotent.
+A1	Complexity T1 Multiple
+T2	NegStructure 120 149	No ens governen homes valents
+A2	Value T2 Neg
+T3	NegExp 120 122	No
+T4	NegSynMarker 120 122	No
+T5	Scope 120 149	No ens governen homes valents
+T6	Focus 136 149	homes valents
+T7	Event 127 135	governen
+T8	NegStructure 152 232	les dones encara no son prou nombroses per contrarestar tanta covardia prepotent
+A3	Value T8 Neg
+T9	NegExp 162 171	encara no
+T10	NegSynMarker 169 171	no
+T11	Scope 152 232	les dones encara no son prou nombroses per contrarestar tanta covardia prepotent
+T12	Focus 191 232	per contrarestar tanta covardia prepotent
+T13	Event 172 190	son prou nombroses
+A5	Disp T6
