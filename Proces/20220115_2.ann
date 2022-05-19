@@ -1,0 +1,27 @@
+T1	Sentence 316 576	Els motius per a la independència segueixen sent els mateixos i empitjorant però, el moviment popular no pot tornar a posar-se en marxa sota el lideratge de dirigents en qui no es pot tenir confiança per que ja van demostrar no ser ni conseqüents ni coherents.
+A1	Complexity T1 Multiple
+T2	NegStructure 392 515	però, el moviment popular no pot tornar a posar-se en marxa sota el lideratge de dirigents en qui no es pot tenir confiança
+A2	Value T2 Neg
+T3	NegExp 418 420	no
+T4	NegSynMarker 418 420	no
+T5	Scope 398 515	el moviment popular no pot tornar a posar-se en marxa sota el lideratge de dirigents en qui no es pot tenir confiança
+T6	Focus 452 515	sota el lideratge de dirigents en qui no es pot tenir confiança
+T7	Event 421 451	pot tornar a posar-se en marxa
+T8	NegStructure 483 515	en qui no es pot tenir confiança
+A3	Value T8 Neg
+T9	NegExp 490 492	no
+T10	NegSynMarker 490 492	no
+T11	Scope 473 485;490 515	dirigents en no es pot tenir confiança
+A4	Disc T11
+T12	Focus 473 482	dirigents
+T13	Event 493 505	es pot tenir
+T14	NegStructure 541 575	no ser ni conseqüents ni coherents
+A5	Value T14 Neg
+T15	NegExp 541 543;548 550;563 565	no ni ni
+A6	Disc T15
+T16	NegSynMarker 541 543	no
+T17	NegPolItem 548 550	ni
+T18	NegPolItem 563 565	ni
+T19	Scope 541 575	no ser ni conseqüents ni coherents
+T20	Focus 548 575	ni conseqüents ni coherents
+T21	Event 544 547;551 562;566 575	ser conseqüents coherents

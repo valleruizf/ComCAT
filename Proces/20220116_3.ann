@@ -1,0 +1,10 @@
+T1	Sentence 0 38	Amb auto-odi no crec que ens en sortim
+A1	Complexity T1 Simple
+T2	NegStructure 0 38	Amb auto-odi no crec que ens en sortim
+A2	Value T2 Neg
+T3	NegExp 13 15	no
+T4	NegSynMarker 13 15	no
+T5	Scope 0 38	Amb auto-odi no crec que ens en sortim
+T6	Focus 0 12	Amb auto-odi
+A3	Disp T6
+T7	Event 25 38	ens en sortim

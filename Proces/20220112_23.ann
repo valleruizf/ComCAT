@@ -1,0 +1,11 @@
+T1	Sentence 133 219	Que sapiguem del cert que l'estat espanyol no té cap problema si morim per causa seva.
+A1	Complexity T1 Simple
+T2	NegStructure 155 194	que l'estat espanyol no té cap problema
+A2	Value T2 Neg
+T3	NegExp 176 178;182 185	no cap
+A3	Disc T3
+T4	Scope 159 194	l'estat espanyol no té cap problema
+T5	Focus 182 194	cap problema
+T6	Event 179 181	té
+T7	NegSynMarker 176 178	no
+T8	NegPolItem 182 185	cap

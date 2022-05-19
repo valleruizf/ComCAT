@@ -1,0 +1,11 @@
+T1	Sentence 148 268	O potser és ben bé al revés, que és hiper-realista, i creu que el sostre és tan baix que ja no podrem aspirar a res més.
+A1	Complexity T1 Simple
+T2	NegStructure 233 267	que ja no podrem aspirar a res més
+A2	Value T2 Neg
+T3	NegExp 237 242;260 267	ja no res més
+A3	Disc T3
+T4	NegSynMarker 240 242	no
+T5	NegPolItem 260 263	res
+T6	Scope 237 267	ja no podrem aspirar a res més
+T7	Focus 258 267	a res més
+T8	Event 243 257	podrem aspirar

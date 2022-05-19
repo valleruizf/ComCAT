@@ -1,0 +1,19 @@
+T1	Sentence 0 84	No, no, ja està bé que ho confirmi, però ja ho vam veure llavors de què es tractava.
+A1	Complexity T1 Multiple
+T2	NegStructure 0 2	No
+A2	Value T2 Neg
+T3	NegExp 0 2	No
+T4	NegSynMarker 0 2	No
+T5	NegStructure 4 6	no
+A3	Value T5 Neg
+T6	NegExp 4 6	no
+T7	NegSynMarker 4 6	no
+T8	Sentence 85 273	No existeix diccionari de l'argot de les clavegueres, però ja sabem que la "necessitat de protecció" que diu vostè traduïda al català es diu "tenir l'excusa per fotre l'exèrcit al carrer".
+A4	Complexity T8 Simple
+T9	NegStructure 85 137	No existeix diccionari de l'argot de les clavegueres
+A5	Value T9 Neg
+T10	NegExp 85 87	No
+T11	NegSynMarker 85 87	No
+T12	Scope 85 137	No existeix diccionari de l'argot de les clavegueres
+T13	Focus 97 137	diccionari de l'argot de les clavegueres
+T14	Event 88 96	existeix

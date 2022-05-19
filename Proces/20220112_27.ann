@@ -1,0 +1,18 @@
+T1	Sentence 0 38	Si es veritat, no volem la seva ajuda.
+A1	Complexity T1 Simple
+T2	NegStructure 15 37	no volem la seva ajuda
+A2	Value T2 Neg
+T3	NegExp 15 17	no
+T4	NegSynMarker 15 17	no
+T5	Scope 15 37	no volem la seva ajuda
+T6	Focus 24 37	la seva ajuda
+T7	Event 18 23	volem
+T8	Sentence 39 141	No es manera d'ajudar, aixo es com si un metge anes apunyalant a persones per tenir feina al hospital.
+A3	Complexity T8 Simple
+T9	NegStructure 39 60	No es manera d'ajudar
+A4	Value T9 Neg
+T10	NegExp 39 41	No
+T11	NegSynMarker 39 41	No
+T12	Scope 39 60	No es manera d'ajudar
+T13	Focus 45 60	manera d'ajudar
+T14	Event 42 60	es manera d'ajudar

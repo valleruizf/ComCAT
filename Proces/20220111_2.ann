@@ -1,0 +1,15 @@
+T1	Sentence 0 65	Ramon Comella ,no cal ,això entra el la llibertat d'expressió,no?
+A1	Complexity T1 Multiple
+T2	NegStructure 15 21	no cal
+A2	Value T2 Neg
+T3	NegExp 15 17	no
+T4	NegSynMarker 15 17	no
+T5	Scope 15 21	no cal
+T6	Event 18 21	cal
+T7	NegStructure 62 65	no?
+A3	Value T7 NoNeg
+T8	NegExp 62 64	no
+A4	NoNeg T8
+T9	NegSynMarker 62 64	no
+A5	NoNeg T9
+T10	Focus 18 21	cal

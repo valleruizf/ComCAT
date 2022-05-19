@@ -1,0 +1,13 @@
+T1	Sentence 65 104	Dels Mossos mai n'he esperat gran cosa.
+A1	Complexity T1 Simple
+T2	NegStructure 65 103	Dels Mossos mai n'he esperat gran cosa
+A2	Value T2 Neg
+T3	NegExp 77 80;94 103	mai gran cosa
+A3	Disc T3
+T4	NegSynMarker 77 80	mai
+T5	NegPolItem 94 103	gran cosa
+T6	Scope 65 103	Dels Mossos mai n'he esperat gran cosa
+T7	Focus 65 76	Dels Mossos
+A4	Pleo T7
+T8	Focus 81 83	n'
+T9	Event 83 93	he esperat

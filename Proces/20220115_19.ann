@@ -1,0 +1,27 @@
+T1	Sentence 86 373	Malgrat molt sovint no estic d'acord amb la @Montse Pinel Martinez, és més que evident que perdre en Jordi Cuixart de la primera línia és un cop molt dur, encara que només sigui per la seva capacitat de mobilització i el seu compromís innegable amb lluitar per tenir un país independent.
+A1	Complexity T1 Simple
+T2	NegStructure 86 152	Malgrat molt sovint no estic d'acord amb la @Montse Pinel Martinez
+A2	Value T2 Neg
+T3	NegExp 106 108	no
+T4	NegSynMarker 106 108	no
+T5	Scope 94 152	molt sovint no estic d'acord amb la @Montse Pinel Martinez
+T6	Focus 94 105	molt sovint
+T7	Event 109 122	estic d'acord
+T8	Sentence 498 568	Si no la té, l’independentisme es desinflarà, no en tingueu cap dubte.
+A3	Complexity T8 Multiple
+T9	NegStructure 498 509	Si no la té
+A4	Value T9 Neg
+T10	NegExp 501 503	no
+T11	NegSynMarker 501 503	no
+T12	Scope 501 509	no la té
+T13	Focus 504 506	la
+T14	Event 507 509	té
+T16	NegStructure 544 567	no en tingueu cap dubte
+A6	Value T16 Neg
+T17	NegExp 544 546;558 561	no cap
+A7	Disc T17
+T18	NegSynMarker 544 546	no
+T19	NegPolItem 558 561	cap
+T20	Scope 544 567	no en tingueu cap dubte
+T21	Focus 558 567	cap dubte
+T22	Event 550 557	tingueu

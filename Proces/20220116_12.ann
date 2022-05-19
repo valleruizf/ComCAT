@@ -1,0 +1,9 @@
+T1	Sentence 25 66	un pais sense justîcia com cal, és un pal
+A1	Complexity T1 Simple
+T2	NegStructure 33 55	sense justîcia com cal
+A2	Value T2 Neg
+T3	NegExp 33 38	sense
+T4	NegSynMarker 33 38	sense
+T5	Scope 33 55	sense justîcia com cal
+T6	Focus 39 55	justîcia com cal
+T7	Event 39 47	justîcia

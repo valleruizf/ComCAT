@@ -1,0 +1,34 @@
+T1	Sentence 0 251	El president Torra mai s'ha considerat un president de totes les persones que viuen  a Catalunya....només s'ha considerat el "vicari" de Carles Puigdemont, el nét del forner de la presó de Burgos quan estava plena de presoners polítics del franquisme.
+A1	Complexity T1 Simple
+T2	NegStructure 0 96	El president Torra mai s'ha considerat un president de totes les persones que viuen  a Catalunya
+A2	Value T2 Neg
+T3	NegExp 19 22	mai
+T4	NegSynMarker 19 22	mai
+T5	Scope 0 96	El president Torra mai s'ha considerat un president de totes les persones que viuen  a Catalunya
+T6	Focus 39 96	un president de totes les persones que viuen  a Catalunya
+T7	Event 23 96	s'ha considerat un president de totes les persones que viuen  a Catalunya
+T8	Sentence 255 395	Les opinions del "president vicari" continuen sense aportar res per millorar la vida de la majoria de les persones que viuen a Catalunya....
+A3	Complexity T8 Simple
+T9	NegStructure 301 391	sense aportar res per millorar la vida de la majoria de les persones que viuen a Catalunya
+A4	Value T9 Neg
+T10	NegExp 301 306;315 318	sense res
+A5	Disc T10
+T11	NegSynMarker 301 306	sense
+T12	NegPolItem 315 318	res
+T13	Scope 301 391	sense aportar res per millorar la vida de la majoria de les persones que viuen a Catalunya
+T14	Focus 307 391	aportar res per millorar la vida de la majoria de les persones que viuen a Catalunya
+T15	Event 307 314	aportar
+T16	Sentence 395 501	el poc temps que ha estat al capdevant d'aquest país sembla que no l'ha servit de gaire per fer "POLÍTICA"
+A6	Complexity T16 Simple
+T17	NegStructure 455 501	que no l'ha servit de gaire per fer "POLÍTICA"
+A8	Value T17 Neg
+T18	NegExp 459 461;477 482	no gaire
+A7	Disc T18
+T19	NegSynMarker 459 461	no
+T20	NegPolItem 477 482	gaire
+T21	Scope 395 447;459 501	el poc temps que ha estat al capdevant d'aquest país no l'ha servit de gaire per fer "POLÍTICA"
+A9	Disc T21
+T22	Focus 395 447	el poc temps que ha estat al capdevant d'aquest país
+A10	Pleo T22
+T23	Focus 462 464	l'
+T24	Event 464 473	ha servit

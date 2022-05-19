@@ -1,0 +1,9 @@
+T1	Sentence 0 108	Amb tot l'interés d'aclarir la veritat, no hem de caure en la frivolitat i el menysteniment de les víctimes.
+A1	Complexity T1 Simple
+T2	NegStructure 40 107	no hem de caure en la frivolitat i el menysteniment de les víctimes
+A2	Value T2 Neg
+T3	NegExp 40 42	no
+T4	NegSynMarker 40 42	no
+T5	Scope 40 107	no hem de caure en la frivolitat i el menysteniment de les víctimes
+T6	Focus 56 107	en la frivolitat i el menysteniment de les víctimes
+T7	Event 43 55	hem de caure

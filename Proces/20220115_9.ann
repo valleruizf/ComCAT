@@ -1,0 +1,9 @@
+T1	Sentence 17 101	No ho vau fer bé de tot, però era difícil, i vau tenir alguns encerts espectaculars.
+A1	Complexity T1 Simple
+T2	NegStructure 17 40	No ho vau fer bé de tot
+A2	Value T2 Neg
+T3	NegExp 17 19	No
+T4	NegSynMarker 17 19	No
+T5	Scope 17 40	No ho vau fer bé de tot
+T6	Focus 31 40	bé de tot
+T7	Event 23 40	vau fer bé de tot

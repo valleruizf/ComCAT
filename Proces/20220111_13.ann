@@ -1,0 +1,11 @@
+T1	Sentence 0 191	Mentre Junts i ERC siguin dues sectes que només es posen d'acord per repartir-se els càrrecs i la resta del temps la dediquen a clavar-se punyalades, no es pot ni somniar en la independència.
+A1	Complexity T1 Simple
+T2	NegStructure 150 190	no es pot ni somniar en la independència
+A2	Value T2 Neg
+T3	NegExp 150 152;160 162	no ni
+A3	Disc T3
+T4	NegSynMarker 150 152	no
+T5	NegPolItem 160 162	ni
+T6	Scope 150 190	no es pot ni somniar en la independència
+T7	Focus 160 190	ni somniar en la independència
+T8	Event 153 159	es pot

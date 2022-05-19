@@ -1,0 +1,31 @@
+T1	Sentence 163 380	És més, no només nega en el parlament espanyol els fets, sinó que amb la prepotència típica d'un espanyol , amenaça als diputats nacionalistes bascos, que pregunten pels mateixos, d'insinuacions i de fer el joc a ETA.
+A1	Complexity T1 Simple
+T2	NegStructure 171 379	no només nega en el parlament espanyol els fets, sinó que amb la prepotència típica d'un espanyol , amenaça als diputats nacionalistes bascos, que pregunten pels mateixos, d'insinuacions i de fer el joc a ETA
+A2	Value T2 Contr
+T3	NegExp 171 179;220 228	no només sinó que
+A3	Disc T3
+T4	NegSynMarker 171 173	no
+T5	Scope 171 218	no només nega en el parlament espanyol els fets
+T6	Focus 180 218	nega en el parlament espanyol els fets
+T7	Event 180 184	nega
+T8	Sentence 510 658	Si algú és tan neci de creure que PN i GC, protegeixen els ciutadans catalans, i no els utilitza, menysprea, engarjola,i manipula, és que no hi veu.
+A4	Complexity T8 Multiple
+T9	NegStructure 553 639	protegeixen els ciutadans catalans, i no els utilitza, menysprea, engarjola,i manipula
+A5	Value T9 Contr
+T10	NegExp 589 593	i no
+T11	NegSynMarker 591 593	no
+T12	Scope 589 639	i no els utilitza, menysprea, engarjola,i manipula
+T13	Focus 598 639	utilitza, menysprea, engarjola,i manipula
+T14	Event 598 606	utilitza
+T15	NegStructure 644 657	que no hi veu
+A7	Value T15 Neg
+T16	NegExp 648 650	no
+T17	NegSynMarker 648 650	no
+T18	Scope 513 517;648 657	algú no hi veu
+A8	Disc T18
+T19	Focus 651 657	hi veu
+T20	Event 651 657	hi veu
+T21	Event 608 617	menysprea
+T22	Event 619 628	engarjola
+T23	Event 631 639	manipula
+T24	NegPolItem 220 228	sinó que

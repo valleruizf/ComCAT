@@ -1,0 +1,18 @@
+T1	Sentence 0 123	Tsunami va ser una oportunitat grollerament malbaratada d'organitzar la lluita no violenta però ferma i decidida del poble.
+A1	Complexity T1 Simple
+T2	NegStructure 79 90	no violenta
+A2	Value T2 Neg
+T3	NegExp 79 81	no
+T4	NegSynMarker 79 81	no
+T5	Scope 79 90	no violenta
+T6	Focus 82 90	violenta
+T7	Event 82 90	violenta
+T8	Sentence 124 175	No sé quina ma negra el va crear per desactivar-lo.
+A3	Complexity T8 Simple
+T9	NegStructure 124 174	No sé quina ma negra el va crear per desactivar-lo
+A4	Value T9 Neg
+T10	NegExp 124 126	No
+T11	NegSynMarker 124 126	No
+T12	Scope 124 174	No sé quina ma negra el va crear per desactivar-lo
+T13	Focus 130 174	quina ma negra el va crear per desactivar-lo
+T14	Event 127 129	sé

@@ -1,0 +1,18 @@
+T1	Sentence 274 434	Si no fan res, és perquè ja ho sabien: l'atemptat el van organitzar els serveis secrets mundials perquè a cap país li interessava la independència de Catalunya.
+A1	Complexity T1 Multiple
+T2	NegStructure 274 287	Si no fan res
+A2	Value T2 Neg
+T3	NegExp 277 279;284 287	no res
+A3	Disc T3
+T4	NegSynMarker 277 279	no
+T5	NegPolItem 284 287	res
+T6	Scope 277 287	no fan res
+T7	Focus 284 287	res
+T8	Event 280 283	fan
+T10	NegStructure 371 433	perquè a cap país li interessava la independència de Catalunya
+A5	Value T10 Neg
+T11	NegExp 380 383	cap
+T12	NegSynMarker 380 383	cap
+T13	Scope 378 433	a cap país li interessava la independència de Catalunya
+T14	Focus 378 388	a cap país
+T15	Event 384 388	país

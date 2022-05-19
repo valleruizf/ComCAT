@@ -1,0 +1,18 @@
+T1	Sentence 20 47	Jo ja no vull ser espanyol.
+A1	Complexity T1 Simple
+T2	NegStructure 20 46	Jo ja no vull ser espanyol
+A2	Value T2 Neg
+T3	NegExp 23 28	ja no
+T4	NegSynMarker 26 28	no
+T5	Scope 20 46	Jo ja no vull ser espanyol
+T6	Focus 38 46	espanyol
+T7	Event 29 46	vull ser espanyol
+T8	Sentence 97 181	No entenc con la Gene es presenta d'acusació, tant que va defensar el referendum 1O?
+A3	Complexity T8 Simple
+T9	NegStructure 97 141	No entenc con la Gene es presenta d'acusació
+A4	Value T9 Neg
+T10	NegExp 97 99	No
+T11	NegSynMarker 97 99	No
+T12	Scope 97 141	No entenc con la Gene es presenta d'acusació
+T13	Focus 107 141	con la Gene es presenta d'acusació
+T14	Event 100 106	entenc

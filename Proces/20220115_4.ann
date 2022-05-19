@@ -1,0 +1,9 @@
+T1	Sentence 27 130	No oblidarem el missatge "Ho tornarem a fer" i sempre el  recordarem pel seu bon fer i el seu somriure.
+A1	Complexity T1 Simple
+T2	NegStructure 27 71	No oblidarem el missatge "Ho tornarem a fer"
+A2	Value T2 Neg
+T3	NegExp 27 29	No
+T4	NegSynMarker 27 29	No
+T5	Scope 27 71	No oblidarem el missatge "Ho tornarem a fer"
+T6	Focus 40 71	el missatge "Ho tornarem a fer"
+T7	Event 30 39	oblidarem

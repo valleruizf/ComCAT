@@ -1,0 +1,21 @@
+T1	Sentence 0 139	No puc ni imaginar mai que la presidenta d'Alemanya dones una ordre així contra Waden Württemberg per motius de pensament polític diferent.
+A1	Complexity T1 Simple
+T2	NegStructure 0 138	No puc ni imaginar mai que la presidenta d'Alemanya dones una ordre així contra Waden Württemberg per motius de pensament polític diferent
+A2	Value T2 Neg
+T3	NegExp 0 2;19 22;7 9	No mai ni
+A3	Disc T3
+T4	NegSynMarker 0 2	No
+T5	NegPolItem 7 9	ni
+T6	NegPolItem 19 22	mai
+T7	Scope 0 138	No puc ni imaginar mai que la presidenta d'Alemanya dones una ordre així contra Waden Württemberg per motius de pensament polític diferent
+T8	Focus 23 138	que la presidenta d'Alemanya dones una ordre així contra Waden Württemberg per motius de pensament polític diferent
+T9	Event 10 18;3 6	imaginar puc
+T10	Sentence 141 210	Es clar que els alemanys no entenen  que cat vulgui sortir d'Espanya.
+A4	Complexity T10 Simple
+T11	NegStructure 149 209	que els alemanys no entenen  que cat vulgui sortir d'Espanya
+A5	Value T11 Neg
+T12	NegExp 166 168	no
+T13	NegSynMarker 166 168	no
+T14	Scope 153 209	els alemanys no entenen  que cat vulgui sortir d'Espanya
+T15	Focus 178 209	que cat vulgui sortir d'Espanya
+T16	Event 169 176	entenen

@@ -1,0 +1,9 @@
+T1	Sentence 177 222	EspaÑa no es una anomalia es la gran MENTIDA.
+A1	Complexity T1 Simple
+T2	NegStructure 177 221	EspaÑa no es una anomalia es la gran MENTIDA
+A2	Value T2 Contr
+T3	NegExp 184 186	no
+T4	NegSynMarker 184 186	no
+T5	Scope 177 202	EspaÑa no es una anomalia
+T6	Focus 190 202	una anomalia
+T7	Event 187 202	es una anomalia

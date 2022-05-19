@@ -1,0 +1,10 @@
+T1	Sentence 608 663	Els vents han de ser favorables i avui i ara no ho són.
+A1	Complexity T1 Simple
+T2	NegStructure 642 662	avui i ara no ho són
+A2	Value T2 Neg
+T3	NegExp 653 655	no
+T4	NegSynMarker 653 655	no
+T5	Scope 608 617;642 662	Els vents avui i ara no ho són
+A3	Disc T5
+T6	Focus 642 652	avui i ara
+T7	Event 656 662	ho són

@@ -1,0 +1,17 @@
+T1	Sentence 205 368	Així doncs, Sra. Cunillera, per la mateixa regla de tres, quan el Sr. M.Rajoy declara que no coneixia l'existència de la caixa B, tampoc li donarem credibilitat???
+A1	Complexity T1 Multiple
+T2	NegStructure 291 333	que no coneixia l'existència de la caixa B
+A2	Value T2 Neg
+T3	NegExp 295 297	no
+T4	NegSynMarker 295 297	no
+T5	Scope 268 282;295 333	el Sr. M.Rajoy no coneixia l'existència de la caixa B
+A3	Disc T5
+T6	Focus 307 333	l'existència de la caixa B
+T7	Event 298 306	coneixia
+T8	NegStructure 335 365	tampoc li donarem credibilitat
+A4	Value T8 Neg
+T9	NegExp 335 341	tampoc
+T10	NegSynMarker 335 341	tampoc
+T11	Scope 335 365	tampoc li donarem credibilitat
+T12	Focus 342 344	li
+T13	Event 345 352	donarem

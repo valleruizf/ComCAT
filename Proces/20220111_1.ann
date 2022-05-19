@@ -1,0 +1,13 @@
+T1	Sentence 0 50	No; no servirà per avançar cap a la independència.
+A1	Complexity T1 Multiple
+T2	NegStructure 0 2	No
+A2	Value T2 Neg
+T3	NegExp 0 2	No
+T4	NegSynMarker 0 2	No
+T5	NegStructure 4 49	no servirà per avançar cap a la independència
+A3	Value T5 Neg
+T6	NegExp 4 6	no
+T7	NegSynMarker 4 6	no
+T8	Scope 4 49	no servirà per avançar cap a la independència
+T9	Focus 15 49	per avançar cap a la independència
+T10	Event 7 14	servirà

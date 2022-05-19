@@ -1,0 +1,9 @@
+T1	Sentence 271 306	Si torna, no farà la independència.
+A1	Complexity T1 Simple
+T2	NegStructure 281 305	no farà la independència
+A2	Value T2 Neg
+T3	NegExp 281 283	no
+T4	NegSynMarker 281 283	no
+T5	Scope 281 305	no farà la independència
+T6	Focus 289 305	la independència
+T7	Event 284 288	farà

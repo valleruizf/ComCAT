@@ -1,0 +1,10 @@
+T1	Sentence 0 243	Després del rotund fracàs del 2017, la major part de l'independentisme ha entès (tot i que no es reconegui obertament), que el suport social a la via unilateral encara està molt lluny de ser suficient per tenir alguna possibilitat d'èxit real.
+A1	Complexity T1 Simple
+T2	NegStructure 81 117	tot i que no es reconegui obertament
+A2	Value T2 Neg
+T3	NegExp 91 93	no
+T4	NegSynMarker 91 93	no
+T5	Scope 120 242;91 117	que el suport social a la via unilateral encara està molt lluny de ser suficient per tenir alguna possibilitat d'èxit real no es reconegui obertament
+A3	Disc T5
+T6	Focus 107 117	obertament
+T7	Event 94 106	es reconegui

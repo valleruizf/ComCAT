@@ -1,0 +1,10 @@
+T1	Sentence 55 89	Espero en un futur no gaire llunyà
+A1	Complexity T1 Simple
+T2	NegStructure 74 89	no gaire llunyà
+A2	Value T2 Neg
+T3	NegExp 74 82	no gaire
+T4	NegSynMarker 74 76	no
+T5	NegPolItem 77 82	gaire
+T6	Scope 74 89	no gaire llunyà
+T7	Focus 77 89	gaire llunyà
+T8	Event 83 89	llunyà

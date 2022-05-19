@@ -1,0 +1,16 @@
+T1	Sentence 0 54	No hi ha independència perquè no hi ha transparència!!
+A1	Complexity T1 Multiple
+T2	NegStructure 0 22	No hi ha independència
+A2	Value T2 Neg
+T3	NegExp 0 2	No
+T4	NegSynMarker 0 2	No
+T5	Scope 0 22	No hi ha independència
+T6	Focus 9 22	independència
+T7	Event 3 22	hi ha independència
+T8	NegStructure 23 52	perquè no hi ha transparència
+A3	Value T8 Neg
+T9	NegExp 30 32	no
+T10	NegSynMarker 30 32	no
+T11	Scope 30 52	no hi ha transparència
+T12	Focus 39 52	transparència
+T13	Event 33 52	hi ha transparència

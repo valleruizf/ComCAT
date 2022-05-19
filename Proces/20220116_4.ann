@@ -1,0 +1,54 @@
+T1	Sentence 70 80	No se com.
+A1	Complexity T1 Simple
+T2	NegStructure 70 79	No se com
+A2	Value T2 Neg
+T3	NegExp 70 72	No
+T4	NegSynMarker 70 72	No
+T5	Scope 70 79	No se com
+T6	Focus 76 79	com
+T7	Event 73 75	se
+T8	Sentence 81 108	No votar no es la solucio .
+A3	Complexity T8 Simple
+T9	NegStructure 81 106	No votar no es la solucio
+A4	Value T9 Neg
+T10	NegExp 90 92	no
+T11	NegSynMarker 90 92	no
+T12	Scope 81 106	No votar no es la solucio
+T13	Focus 96 106	la solucio
+T14	Event 93 106	es la solucio
+T15	NegStructure 81 89	No votar
+A5	Value T15 Neg
+T16	NegExp 81 83	No
+T17	NegSynMarker 81 83	No
+T18	Scope 81 89	No votar
+T19	Focus 84 89	votar
+T20	Event 84 89	votar
+T21	Sentence 109 240	No per res, pero els cavernicoles , els de la caverna de nivell de fosforo igual a cero si aniran encara que sense sapigue perque..
+A6	Complexity T21 Multiple
+T22	NegStructure 109 240	No per res, pero els cavernicoles , els de la caverna de nivell de fosforo igual a cero si aniran encara que sense sapigue perque..
+A7	Value T22 NoNeg
+T23	NegExp 109 119	No per res
+T24	NegSynMarker 109 111	No
+T25	NegPolItem 116 119	res
+T29	NegStructure 218 238	sense sapigue perque
+A9	Value T29 Neg
+T30	NegExp 218 223	sense
+T31	NegSynMarker 218 223	sense
+T32	Scope 218 238	sense sapigue perque
+T33	Focus 224 238	sapigue perque
+T34	Event 224 231	sapigue
+T35	Sentence 240 337	Un escalf molt fort per els que estan fora y els persegits per la seva lley,  amb mordaza o sense
+A10	Complexity T35 Simple
+T36	NegStructure 332 337	sense
+A11	Value T36 Neg
+T37	NegExp 332 337	sense
+T38	NegSynMarker 332 337	sense
+T39	Scope 322 329	mordaza
+A12	Ell T39
+T40	Focus 322 329	mordaza
+A13	Ell T40
+T41	Event 322 329	mordaza
+A14	Ell T41
+A15	NoNeg T23
+A16	NoNeg T24
+A17	NoNeg T25

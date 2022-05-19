@@ -1,0 +1,9 @@
+T1	Sentence 231 471	que no en som prous, que cal una majoria indiscutible per enfrontar la responsabilitat d’una declaració d’independència… i que, mentrestant, el país econòmicament (treball i benestar social) i culturalment (llengua), s’ens va per l’aigüera…
+A1	Complexity T1 Simple
+T2	NegStructure 231 250	que no en som prous
+A2	Value T2 Neg
+T3	NegExp 235 237	no
+T4	NegSynMarker 235 237	no
+T5	Scope 235 250	no en som prous
+T6	Focus 245 250	prous
+T7	Event 241 250	som prous

@@ -1,0 +1,34 @@
+T1	Sentence 210 299	Aposto que no li donaran accés, i faran  una neteja dels arxius que comprometen l'estat .
+A1	Complexity T1 Simple
+T2	NegStructure 217 240	que no li donaran accés
+A2	Value T2 Neg
+T3	NegExp 221 223	no
+T4	NegSynMarker 221 223	no
+T5	Scope 221 240	no li donaran accés
+T6	Focus 224 226	li
+T7	Event 227 234	donaran
+T8	Sentence 300 325	No hi haurà investigació.
+A3	Complexity T8 Simple
+T9	NegStructure 300 324	No hi haurà investigació
+A4	Value T9 Neg
+T10	NegExp 300 302	No
+T11	NegSynMarker 300 302	No
+T12	Scope 300 324	No hi haurà investigació
+T13	Focus 312 324	investigació
+T14	Event 303 324	hi haurà investigació
+T15	Sentence 327 414	D'aquí uns anys, l'estat serà sentenciat per no investigar, però no és sabrà la veritat
+A5	Complexity T15 Multiple
+T16	NegStructure 368 385	per no investigar
+A6	Value T16 Neg
+T17	NegExp 372 374	no
+T18	NegSynMarker 372 374	no
+T19	Scope 372 385	no investigar
+T20	Focus 375 385	investigar
+T21	Event 375 385	investigar
+T22	NegStructure 387 414	però no és sabrà la veritat
+A7	Value T22 Neg
+T23	NegExp 392 394	no
+T24	NegSynMarker 392 394	no
+T25	Scope 392 414	no és sabrà la veritat
+T26	Focus 404 414	la veritat
+T27	Event 395 403	és sabrà

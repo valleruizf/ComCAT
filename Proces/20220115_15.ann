@@ -1,0 +1,9 @@
+T1	Sentence 0 63	Mai li podrem agraïr prou tot el que ha fet i el seu sacrifici.
+A1	Complexity T1 Simple
+T2	NegStructure 0 62	Mai li podrem agraïr prou tot el que ha fet i el seu sacrifici
+A2	Value T2 Neg
+T3	NegExp 0 3	Mai
+T4	NegSynMarker 0 3	Mai
+T5	Scope 0 62	Mai li podrem agraïr prou tot el que ha fet i el seu sacrifici
+T6	Focus 26 62	tot el que ha fet i el seu sacrifici
+T7	Event 7 20	podrem agraïr

@@ -1,0 +1,10 @@
+T1	Sentence 191 260	Que parefrassejant Shakespeare, ni tot el mar d'Aràbia podrá netejar.
+A1	Complexity T1 Simple
+T2	NegStructure 223 259	ni tot el mar d'Aràbia podrá netejar
+A2	Value T2 Neg
+T3	NegExp 223 225	ni
+T4	NegSynMarker 223 225	ni
+T5	Scope 223 259	ni tot el mar d'Aràbia podrá netejar
+T6	Focus 223 245	ni tot el mar d'Aràbia
+T7	Event 233 236	mar
+A3	Disp T6

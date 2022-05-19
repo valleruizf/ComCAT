@@ -1,0 +1,16 @@
+T1	Sentence 0 5	N O !
+A1	Complexity T1 Simple
+T2	NegStructure 0 3	N O
+A2	Value T2 Neg
+T3	NegExp 0 3	N O
+T4	NegSynMarker 0 3	N O
+T5	Sentence 291 371	És pensa, com sempre amb Partits i els seus dirigents, No pel ciutadà o afiliat.
+A3	Complexity T5 Simple
+T6	NegStructure 346 370	No pel ciutadà o afiliat
+A4	Value T6 Contr
+T7	NegExp 346 348	No
+T8	NegSynMarker 346 348	No
+T9	Scope 346 370	No pel ciutadà o afiliat
+T10	Focus 349 370	pel ciutadà o afiliat
+T11	Event 353 360	ciutadà
+T12	Event 363 370	afiliat

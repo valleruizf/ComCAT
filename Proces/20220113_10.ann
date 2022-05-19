@@ -1,0 +1,31 @@
+T1	Sentence 0 198	Senyora Paluzie I hiperventilats pensament màgic anti independentisme realista: Tan difícil  és entendre q a dia d'avui NO tenim prou força per implementar la independència i controlar el territori.
+A1	Complexity T1 Simple
+T2	NegStructure 105 197	q a dia d'avui NO tenim prou força per implementar la independència i controlar el territori
+A2	Value T2 Neg
+T3	NegExp 120 122	NO
+T4	NegSynMarker 120 122	NO
+T5	Scope 107 197	a dia d'avui NO tenim prou força per implementar la independència i controlar el territori
+T6	Focus 140 197	per implementar la independència i controlar el territori
+T7	Event 123 128	tenim
+T8	Sentence 345 382	Per què l' ANC no fa res de tot això?
+A4	Complexity T8 Simple
+T9	NegStructure 345 381	Per què l' ANC no fa res de tot això
+A5	Value T9 Neg
+T10	NegExp 360 362;366 369	no res
+A6	Disc T10
+T11	NegSynMarker 360 362	no
+T12	NegPolItem 366 369	res
+T13	Scope 353 381	l' ANC no fa res de tot això
+T14	Focus 366 381	res de tot això
+T15	Event 363 365	fa
+T16	Sentence 383 433	Criticar I criticar i no fer res: això és l' ANC .
+A7	Complexity T16 Simple
+T17	NegStructure 405 415	no fer res
+A8	Value T17 Neg
+T18	NegExp 405 407;412 415	no res
+A9	Disc T18
+T19	NegSynMarker 405 407	no
+T20	NegPolItem 412 415	res
+T21	Scope 405 415	no fer res
+T22	Focus 412 415	res
+T23	Event 408 411	fer

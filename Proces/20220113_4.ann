@@ -1,0 +1,9 @@
+T1	Sentence 116 199	no tota la culpa és de Madrid,nosaltres en tenim força també de la deficient gestió
+A1	Complexity T1 Simple
+T2	NegStructure 116 132	no tota la culpa
+A2	Value T2 Neg
+T3	NegExp 116 118	no
+T4	NegSynMarker 116 118	no
+T5	Scope 116 132	no tota la culpa
+T6	Focus 119 123	tota
+T7	Event 127 132	culpa

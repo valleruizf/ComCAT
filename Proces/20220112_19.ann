@@ -1,0 +1,10 @@
+T1	Sentence 0 356	Demanant a la Generalitat "que no li faci el joc a Villarejo”, el Govern Espanyol tracta d'eludir, totalment, la seva responsabilitat, en el que es refereix, a la històrica tragèdia, el 25 de Setembre, de 2017, en les Rambles de Barcelona; propiciada per el “Centro Nacional de INTELIGENCIA”, amb el propòsit que “Catalunya sentís necessitat de protecció".
+A1	Complexity T1 Simple
+T2	NegStructure 27 60	que no li faci el joc a Villarejo
+A2	Value T2 Neg
+T3	NegExp 31 33	no
+T4	NegSynMarker 31 33	no
+T5	Scope 11 25;31 60	la Generalitat no li faci el joc a Villarejo
+A3	Disc T5
+T6	Focus 49 60	a Villarejo
+T7	Event 34 48	li faci el joc

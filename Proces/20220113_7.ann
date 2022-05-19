@@ -1,0 +1,20 @@
+T1	Sentence 122 183	Això vol dir fer un pais millor cada dia i feina no ni falta.
+A1	Complexity T1 Simple
+T2	NegStructure 165 182	feina no ni falta
+A2	Value T2 Neg
+T3	NegExp 171 173	no
+T4	NegSynMarker 171 173	no
+T5	Scope 165 182	feina no ni falta
+T6	Focus 165 170	feina
+T7	Event 177 182	falta
+T8	Sentence 184 231	I això no vol dir renunciar a altres objectius.
+A3	Complexity T8 Simple
+T9	NegStructure 186 230	això no vol dir renunciar a altres objectius
+A4	Value T9 Neg
+T10	NegExp 191 193	no
+T11	NegSynMarker 191 193	no
+T12	Scope 186 230	això no vol dir renunciar a altres objectius
+T13	Focus 202 230	renunciar a altres objectius
+T14	Event 194 201	vol dir
+A5	Pleo T6
+T15	Focus 174 175	n

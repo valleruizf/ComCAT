@@ -1,0 +1,17 @@
+T1	Sentence 0 261	Sempre he dit i estic convençuda que en aquest proces s'ha menystingut la força del poble, inclus ara ningu pensa que podem fer molt, aixo si, ben liderats, no pot ser amb gent anonina que s'espanta i desapareix quan veu la força que tenim per falta de projecte
+A1	Complexity T1 Multiple
+T2	NegStructure 91 132	inclus ara ningu pensa que podem fer molt
+A2	Value T2 Neg
+T3	NegExp 102 107;128 132	ningu molt
+A3	Disc T3
+T4	NegSynMarker 102 107	ningu
+T5	Scope 91 132	inclus ara ningu pensa que podem fer molt
+T6	Focus 102 107	ningu
+T7	Event 102 107	ningu
+T9	NegStructure 157 261	no pot ser amb gent anonina que s'espanta i desapareix quan veu la força que tenim per falta de projecte
+A5	Value T9 Neg
+T10	NegExp 157 159	no
+T11	NegSynMarker 157 159	no
+T12	Scope 157 261	no pot ser amb gent anonina que s'espanta i desapareix quan veu la força que tenim per falta de projecte
+T13	Focus 168 261	amb gent anonina que s'espanta i desapareix quan veu la força que tenim per falta de projecte
+T14	Event 160 167	pot ser

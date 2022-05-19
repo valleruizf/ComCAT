@@ -1,0 +1,9 @@
+T1	Sentence 16 104	L' autonomia no implementara la independencia, aixo ho hem de fer nosaltres des de fora.
+A1	Complexity T1 Simple
+T2	NegStructure 16 61	L' autonomia no implementara la independencia
+A2	Value T2 Neg
+T3	NegExp 29 31	no
+T4	NegSynMarker 29 31	no
+T5	Scope 16 61	L' autonomia no implementara la independencia
+T6	Focus 45 61	la independencia
+T7	Event 32 44	implementara

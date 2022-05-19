@@ -1,0 +1,37 @@
+T1	Sentence 0 172	Molt honorable president Aragonès, pot ficar al seu càrrec una mica de vergonya, ja que com a màxima Institució Catalana no té collons de liderar un país que no és mereix?.
+A1	Complexity T1 Simple
+T2	NegStructure 81 170	ja que com a màxima Institució Catalana no té collons de liderar un país que no és mereix
+A2	Value T2 Neg
+T3	Scope 88 170	com a màxima Institució Catalana no té collons de liderar un país que no és mereix
+T4	NegExp 121 123	no
+T5	NegSynMarker 121 123	no
+T6	Focus 124 170	té collons de liderar un país que no és mereix
+T7	Event 124 134	té collons
+T8	NegStructure 154 170	que no és mereix
+A4	Value T8 Neg
+T9	NegExp 158 160	no
+T10	NegSynMarker 158 160	no
+T11	Scope 146 153;158 170	un país no és mereix
+A5	Disc T11
+T12	Focus 146 153	un país
+T13	Event 161 170	és mereix
+T14	Sentence 173 316	Vostè no està ocupant el càrrec que ocupa pels vots unionistes sinó pels independentistes que confiàvem que faria el que toca, l'independència.
+A6	Complexity T14 Simple
+T15	NegStructure 173 298	Vostè no està ocupant el càrrec que ocupa pels vots unionistes sinó pels independentistes que confiàvem que faria el que toca
+A7	Value T15 Contr
+T16	NegExp 179 181;236 240	no sinó
+A8	Disc T16
+T17	NegSynMarker 179 181	no
+T18	Scope 173 298	Vostè no està ocupant el càrrec que ocupa pels vots unionistes sinó pels independentistes que confiàvem que faria el que toca
+T19	Focus 215 235	pels vots unionistes
+T20	Event 182 194	està ocupant
+T21	Sentence 316 438	Ja que no ho ha fet, almenys preocupis del represaliats per causa de la seva incompetència i la del partit que representa.
+A9	Complexity T21 Simple
+T22	NegStructure 316 335	Ja que no ho ha fet
+A10	Value T22 Neg
+T23	NegExp 323 325	no
+T24	NegSynMarker 323 325	no
+T25	Scope 323 335	no ho ha fet
+T26	Focus 326 328	ho
+T27	Event 329 335	ha fet
+T28	NegPolItem 236 240	sinó

@@ -1,0 +1,51 @@
+T1	Sentence 0 38	No ho torneu a fer, si us plau, Jordi.
+A1	Complexity T1 Simple
+T2	NegStructure 0 18	No ho torneu a fer
+A2	Value T2 Neg
+T3	NegExp 0 2	No
+T4	NegSynMarker 0 2	No
+T5	Scope 0 18	No ho torneu a fer
+T6	Focus 3 5	ho
+T7	Event 6 18	torneu a fer
+T8	Sentence 109 336	Per exemple, podeu, els que dieu que vau cometre un error de càlcul i no us esperàveu la repressió, us aparteu i deixeu pas a nous lideratges, perquè o vau ser naïfs o ara sou mentiders, i cap de les dues opcions és acceptable.
+A3	Complexity T8 Multiple
+T9	NegStructure 179 207	no us esperàveu la repressió
+A4	Value T9 Neg
+T10	NegExp 179 181	no
+T11	NegSynMarker 179 181	no
+T12	Scope 129 136;179 207	els que no us esperàveu la repressió
+A5	Disc T12
+T13	Event 182 194	us esperàveu
+T14	Focus 195 207	la repressió
+T15	NegStructure 298 335	cap de les dues opcions és acceptable
+A6	Value T15 Neg
+T16	NegExp 298 301	cap
+T17	NegSynMarker 298 301	cap
+T18	Scope 298 335	cap de les dues opcions és acceptable
+T19	Focus 298 321	cap de les dues opcions
+T20	Event 314 321	opcions
+T21	Sentence 337 561	Podeu respectar el resultat d’un referèndum que va permetre comptar vots a favor de la independència malgrat la violència i no donar la raó a la violència afirmant que aquest referèndum no és vàlid i que cal fer-ne un altre.
+A7	Complexity T21 Multiple
+T22	NegStructure 461 560	no donar la raó a la violència afirmant que aquest referèndum no és vàlid i que cal fer-ne un altre
+A8	Value T22 Neg
+T23	NegExp 461 463	no
+T24	NegSynMarker 461 463	no
+T25	Scope 461 491	no donar la raó a la violència
+T26	Focus 477 491	a la violència
+T27	Event 464 476	donar la raó
+T28	NegStructure 501 534	que aquest referèndum no és vàlid
+A9	Value T28 Neg
+T29	NegExp 523 525	no
+T30	NegSynMarker 523 525	no
+T31	Scope 505 534	aquest referèndum no és vàlid
+T32	Focus 529 534	vàlid
+T33	Event 526 534	és vàlid
+T34	Sentence 562 659	Podeu fer que una institució com Òmnium Cultural faci por als polítics,i no sigui la seva crossa.
+A10	Complexity T34 Simple
+T35	NegStructure 572 658	que una institució com Òmnium Cultural faci por als polítics,i no sigui la seva crossa
+A11	Value T35 Contr
+T36	NegExp 633 637	i no
+T37	NegSynMarker 635 637	no
+T38	Scope 633 658	i no sigui la seva crossa
+T39	Focus 644 658	la seva crossa
+T40	Event 638 658	sigui la seva crossa

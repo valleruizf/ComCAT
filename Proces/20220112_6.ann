@@ -1,0 +1,29 @@
+T1	Sentence 253 291	Si es que no han manipulat els arxius.
+A1	Complexity T1 Simple
+T2	NegStructure 259 290	que no han manipulat els arxius
+A2	Value T2 Neg
+T3	NegExp 263 265	no
+T4	NegSynMarker 263 265	no
+T5	Scope 263 290	no han manipulat els arxius
+T6	Focus 280 290	els arxius
+T7	Event 266 279	han manipulat
+T8	Sentence 428 470	Perquè els diaris cavernaris no diuen res?
+A3	Complexity T8 Simple
+T9	NegStructure 428 469	Perquè els diaris cavernaris no diuen res
+A4	Value T9 Neg
+T10	NegExp 457 459;466 469	no res
+A5	Disc T10
+T11	NegSynMarker 457 459	no
+T12	NegPolItem 466 469	res
+T13	Scope 435 469	els diaris cavernaris no diuen res
+T14	Focus 466 469	res
+T15	Event 460 465	diuen
+T16	Sentence 471 567	Diaris instigadors i responsables de provocar injustícies polítiques per mitjans no democràtics.
+A6	Complexity T16 Simple
+T17	NegStructure 552 566	no democràtics
+A7	Value T17 Neg
+T18	NegExp 552 554	no
+T19	NegSynMarker 552 554	no
+T20	Scope 552 566	no democràtics
+T21	Focus 555 566	democràtics
+T22	Event 555 566	democràtics

@@ -1,0 +1,9 @@
+T1	Sentence 80 173	Si fossim peces d'uns escacs et diria .......canvia de casella, però no abandonis l'escaquer.
+A1	Complexity T1 Simple
+T2	NegStructure 144 172	però no abandonis l'escaquer
+A2	Value T2 Neg
+T3	NegExp 149 151	no
+T4	NegSynMarker 149 151	no
+T5	Scope 149 172	no abandonis l'escaquer
+T6	Focus 162 172	l'escaquer
+T7	Event 152 161	abandonis

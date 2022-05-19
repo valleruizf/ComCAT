@@ -1,0 +1,11 @@
+T1	Sentence 0 72	Ben bé que cobra com expresident sense haver fet res de bó per Catalunya
+A1	Complexity T1 Simple
+T2	NegStructure 33 72	sense haver fet res de bó per Catalunya
+A2	Value T2 Neg
+T3	NegExp 33 38;49 52	sense res
+A3	Disc T3
+T4	NegSynMarker 33 38	sense
+T5	NegPolItem 49 52	res
+T6	Scope 33 72	sense haver fet res de bó per Catalunya
+T7	Focus 39 72	haver fet res de bó per Catalunya
+T8	Event 39 48	haver fet

@@ -1,0 +1,45 @@
+T1	Sentence 0 99	Que vol dir que no li fem el joc al Villarejo quan acusa als governs d'espanya PP i PE(antic PSOE)?
+A1	Complexity T1 Simple
+T2	NegStructure 12 98	que no li fem el joc al Villarejo quan acusa als governs d'espanya PP i PE(antic PSOE)
+A2	Value T2 Neg
+T3	NegExp 16 18	no
+T4	NegSynMarker 16 18	no
+T5	Scope 16 45	no li fem el joc al Villarejo
+T6	Focus 33 45	al Villarejo
+T7	Event 19 32	li fem el joc
+T8	Sentence 100 123	Per que no s'investiga?
+A3	Complexity T8 Simple
+T9	NegStructure 100 122	Per que no s'investiga
+A4	Value T9 Neg
+T10	NegExp 108 110	no
+T11	NegSynMarker 108 110	no
+T12	Scope 108 122	no s'investiga
+T13	Focus 111 122	s'investiga
+T14	Event 111 122	s'investiga
+T15	Sentence 125 164	i si es negatiu no li tornem a fer cas.
+A5	Complexity T15 Simple
+T16	NegStructure 141 163	no li tornem a fer cas
+A6	Value T16 Neg
+T17	NegExp 141 143	no
+T18	NegSynMarker 141 143	no
+T19	Scope 141 163	no li tornem a fer cas
+T20	Focus 144 146	li
+T21	Event 147 163	tornem a fer cas
+T22	Sentence 202 225	per que no s'investiga?
+A7	Complexity T22 Simple
+T23	NegStructure 202 224	per que no s'investiga
+A8	Value T23 Neg
+T24	NegExp 210 212	no
+T25	NegSynMarker 210 212	no
+T26	Scope 210 224	no s'investiga
+T27	Focus 213 224	s'investiga
+T28	Event 213 224	s'investiga
+T29	Sentence 267 290	per que no s'investiga?
+A9	Complexity T29 Simple
+T30	NegStructure 267 289	per que no s'investiga
+A10	Value T30 Neg
+T31	NegExp 275 277	no
+T32	NegSynMarker 275 277	no
+T33	Scope 275 289	no s'investiga
+T34	Focus 278 289	s'investiga
+T35	Event 278 289	s'investiga

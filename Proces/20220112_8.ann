@@ -1,0 +1,18 @@
+T1	Sentence 0 78	La Sra. Delegada del Govern, Teresa Cunillera, ni es "senyora" ni te vergonya.
+A1	Complexity T1 Multiple
+T2	NegStructure 0 62	La Sra. Delegada del Govern, Teresa Cunillera, ni es "senyora"
+A2	Value T2 Neg
+T3	NegExp 47 49	ni
+T4	NegSynMarker 47 49	ni
+T5	Scope 0 62	La Sra. Delegada del Govern, Teresa Cunillera, ni es "senyora"
+T6	Focus 53 62	"senyora"
+T7	Event 50 62	es "senyora"
+T8	NegStructure 63 77	ni te vergonya
+A4	Value T8 Neg
+T9	NegExp 63 65	ni
+T10	NegSynMarker 63 65	ni
+T11	Scope 0 45;63 77	La Sra. Delegada del Govern, Teresa Cunillera ni te vergonya
+A5	Disc T11
+T12	Focus 69 77	vergonya
+T13	Event 66 68	te
+*	NegCoord T2 T8

@@ -1,0 +1,9 @@
+T1	Sentence 44 178	Després d'uns anys, mai més de dues legislatures, fent de polítics com un servei a la comunitat, haurien de tornar a les seves feines.
+A1	Complexity T1 Simple
+T2	NegStructure 64 92	mai més de dues legislatures
+A2	Value T2 Neg
+T3	NegExp 64 67	mai
+T4	NegSynMarker 64 67	mai
+T5	Scope 64 92	mai més de dues legislatures
+T6	Focus 68 92	més de dues legislatures
+T7	Event 80 92	legislatures

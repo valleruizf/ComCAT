@@ -1,0 +1,11 @@
+T1	Sentence 0 158	Tot el meu respecta per un home que predica amb el ejempla, i que amb cap moment a volgut treure un redit politic de la seva lluita amb defensa de Catalunya .
+A1	Complexity T1 Simple
+T2	NegStructure 62 156	que amb cap moment a volgut treure un redit politic de la seva lluita amb defensa de Catalunya
+A2	Value T2 Neg
+T3	NegExp 66 80	amb cap moment
+T4	NegSynMarker 66 80	amb cap moment
+T5	NegPolItem 70 73	cap
+T6	Scope 24 31;66 156	un home amb cap moment a volgut treure un redit politic de la seva lluita amb defensa de Catalunya
+A3	Disc T6
+T7	Focus 90 156	treure un redit politic de la seva lluita amb defensa de Catalunya
+T8	Event 81 96	a volgut treure

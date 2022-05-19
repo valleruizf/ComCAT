@@ -1,0 +1,9 @@
+T1	Sentence 0 165	És clar, com que se suposa que no era una dictadura, i havien de poder justificar la presència de l'exèrcit, la millor manera era fer un atemptat que ho justifiqués.
+A1	Complexity T1 Simple
+T2	NegStructure 27 52	que no era una dictadura,
+A2	Value T2 Neg
+T3	NegExp 31 33	no
+T4	NegSynMarker 31 33	no
+T5	Scope 31 51	no era una dictadura
+T6	Focus 38 51	una dictadura
+T7	Event 34 51	era una dictadura
