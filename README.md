@@ -14,6 +14,6 @@ This collection also contains the configuration files needed to create the annot
 - tools.conf brings together the tools needed to visualize the text, such as the tokenizer, and to annotate.
 - visual.conf defines the visual configurations of tags: possible abbreviated or complete labels, colours and arrows. 
 
-To visualize the annotations, download this collection and import it to the "data" directory of Brat.
+To visualize the annotations, download this collection and import it to Brat "data" directory.
 
 This corpus is part of a double BA final project, in which the guidelines followed to annotate negation can be found.
