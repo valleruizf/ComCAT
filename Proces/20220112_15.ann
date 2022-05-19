@@ -1,0 +1,9 @@
+T1	Sentence 149 188	No tinc paraules...., només indefensió.
+A1	Complexity T1 Simple
+T2	NegStructure 149 165	No tinc paraules
+A2	Value T2 Neg
+T3	NegExp 149 151	No
+T4	NegSynMarker 149 151	No
+T5	Scope 149 165	No tinc paraules
+T6	Focus 157 165	paraules
+T7	Event 152 156	tinc

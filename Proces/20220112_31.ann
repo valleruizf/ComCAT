@@ -1,0 +1,9 @@
+T1	Sentence 331 357	No veig on és el problema.
+A1	Complexity T1 Simple
+T2	NegStructure 331 356	No veig on és el problema
+A2	Value T2 Neg
+T3	NegExp 331 333	No
+T4	NegSynMarker 331 333	No
+T5	Scope 331 356	No veig on és el problema
+T6	Focus 339 356	on és el problema
+T7	Event 334 338	veig
